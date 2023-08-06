@@ -1,0 +1,4 @@
+geneID	root_exp	leave_exp
+Unigene01	16.4798	3.3122
+Unigene02	44.5027	24.1932
+Unigene03	86.9566	43.0663

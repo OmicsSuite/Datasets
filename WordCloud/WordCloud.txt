@@ -1,0 +1,15 @@
+molecular	records
+Genomics	500
+Transcriptomics	400
+Proteomics	300
+Metabolomics	200
+SingleCell	100
+DNA	1000
+cDNA	900
+Protein	800
+mRNA	500
+circRNA	300
+LncRNA	300
+miRNA	200
+rRNA	150
+tRNA	100

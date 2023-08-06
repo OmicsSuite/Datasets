@@ -1,0 +1,10 @@
+Samples	Groups
+CT-1	CT
+CT-2	CT
+CT-3	CT
+Trait1-1	Trait1
+Trait1-2	Trait1
+Trait1-3	Trait1
+Trait2-1	Trait2
+Trait2-2	Trait2
+Trait2-3	Trait2

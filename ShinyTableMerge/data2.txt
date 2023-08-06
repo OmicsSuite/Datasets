@@ -1,0 +1,4 @@
+geneID	KO_id	ko_definition
+Unigene02	K10592	E3 ubiquitin-protein ligase HUWE1
+Unigene03	K10592	NADH dehydrogenase I subunit 4
+Unigene04	K05579	dehydrogenase I subunit 7

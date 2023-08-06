@@ -1,0 +1,9 @@
+Sample	Disease
+CD-6KUCT.mzML	Control
+CD-9OS5Y.mzML	Control
+CD-9WOBP.mzML	Control
+HC-9SNJ4.mzML	Disease
+HC-9X47O.mzML	Disease
+HC-AMR37.mzML	Disease
+QC_PREFA02.mzML	QC
+QC_PREFB02.mzML	QC

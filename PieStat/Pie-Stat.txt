@@ -1,0 +1,6 @@
+Value	Group
+5	Group1
+10	Group2
+15	Group3
+20	Group4
+25	Group5

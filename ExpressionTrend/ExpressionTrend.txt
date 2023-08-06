@@ -1,0 +1,201 @@
+Name	Trait1	Trait2	Trait3	Pathway
+gene1	5.1	1.4	3.5	PPAR signaling pathway
+gene2	4.9	1.4	3	PPAR signaling pathway
+gene3	4.7	1.3	3.2	PPAR signaling pathway
+gene4	4.6	1.5	3.1	PPAR signaling pathway
+gene5	5	1.4	3.6	PPAR signaling pathway
+gene6	5.4	1.7	3.9	PPAR signaling pathway
+gene7	4.6	1.4	3.4	PPAR signaling pathway
+gene8	5	1.5	3.4	PPAR signaling pathway
+gene9	4.4	1.4	2.9	PPAR signaling pathway
+gene10	4.9	1.5	3.1	PPAR signaling pathway
+gene11	5.4	1.5	3.7	PPAR signaling pathway
+gene12	4.8	1.6	3.4	PPAR signaling pathway
+gene13	4.8	1.4	3	PPAR signaling pathway
+gene14	4.3	1.1	3	PPAR signaling pathway
+gene15	5.8	1.2	4	PPAR signaling pathway
+gene16	5.7	1.5	4.4	PPAR signaling pathway
+gene17	5.4	1.3	3.9	PPAR signaling pathway
+gene18	5.1	1.4	3.5	PPAR signaling pathway
+gene19	5.7	1.7	3.8	PPAR signaling pathway
+gene20	5.1	1.5	3.8	PPAR signaling pathway
+gene21	5.4	1.7	3.4	PPAR signaling pathway
+gene22	5.1	1.5	3.7	PPAR signaling pathway
+gene23	4.6	1	3.6	PPAR signaling pathway
+gene24	5.1	1.7	3.3	PPAR signaling pathway
+gene25	4.8	1.9	3.4	PPAR signaling pathway
+gene26	5	1.6	3	PPAR signaling pathway
+gene27	5	1.6	3.4	PPAR signaling pathway
+gene28	5.2	1.5	3.5	PPAR signaling pathway
+gene29	5.2	1.4	3.4	PPAR signaling pathway
+gene30	4.7	1.6	3.2	PPAR signaling pathway
+gene31	4.8	1.6	3.1	PPAR signaling pathway
+gene32	5.4	1.5	3.4	PPAR signaling pathway
+gene33	5.2	1.5	4.1	PPAR signaling pathway
+gene34	5.5	1.4	4.2	PPAR signaling pathway
+gene35	4.9	1.5	3.1	PPAR signaling pathway
+gene36	5	1.2	3.2	PPAR signaling pathway
+gene37	5.5	1.3	3.5	PPAR signaling pathway
+gene38	4.9	1.4	3.6	PPAR signaling pathway
+gene39	4.4	1.3	3	PPAR signaling pathway
+gene40	5.1	1.5	3.4	PPAR signaling pathway
+gene41	5	1.3	3.5	PPAR signaling pathway
+gene42	4.5	1.3	2.3	PPAR signaling pathway
+gene43	4.4	1.3	3.2	PPAR signaling pathway
+gene44	5	1.6	3.5	PPAR signaling pathway
+gene45	5.1	1.9	3.8	PPAR signaling pathway
+gene46	4.8	1.4	3	PPAR signaling pathway
+gene47	5.1	1.6	3.8	PPAR signaling pathway
+gene48	4.6	1.4	3.2	PPAR signaling pathway
+gene49	5.3	1.5	3.7	PPAR signaling pathway
+gene50	5	1.4	3.3	PPAR signaling pathway
+gene51	7	4.7	3.2	AMPK pathway
+gene52	6.4	4.5	3.2	AMPK pathway
+gene53	6.9	4.9	3.1	AMPK pathway
+gene54	5.5	4	2.3	AMPK pathway
+gene55	6.5	4.6	2.8	AMPK pathway
+gene56	5.7	4.5	2.8	AMPK pathway
+gene57	6.3	4.7	3.3	AMPK pathway
+gene58	4.9	3.3	2.4	AMPK pathway
+gene59	6.6	4.6	2.9	AMPK pathway
+gene60	5.2	3.9	2.7	AMPK pathway
+gene61	5	3.5	2	AMPK pathway
+gene62	5.9	4.2	3	AMPK pathway
+gene63	6	4	2.2	AMPK pathway
+gene64	6.1	4.7	2.9	AMPK pathway
+gene65	5.6	3.6	2.9	AMPK pathway
+gene66	6.7	4.4	3.1	AMPK pathway
+gene67	5.6	4.5	3	AMPK pathway
+gene68	5.8	4.1	2.7	AMPK pathway
+gene69	6.2	4.5	2.2	AMPK pathway
+gene70	5.6	3.9	2.5	AMPK pathway
+gene71	5.9	4.8	3.2	AMPK pathway
+gene72	6.1	4	2.8	AMPK pathway
+gene73	6.3	4.9	2.5	AMPK pathway
+gene74	6.1	4.7	2.8	AMPK pathway
+gene75	6.4	4.3	2.9	AMPK pathway
+gene76	6.6	4.4	3	AMPK pathway
+gene77	6.8	4.8	2.8	AMPK pathway
+gene78	6.7	5	3	AMPK pathway
+gene79	6	4.5	2.9	AMPK pathway
+gene80	5.7	3.5	2.6	AMPK pathway
+gene81	5.5	3.8	2.4	AMPK pathway
+gene82	5.5	3.7	2.4	AMPK pathway
+gene83	5.8	3.9	2.7	AMPK pathway
+gene84	6	5.1	2.7	AMPK pathway
+gene85	5.4	4.5	3	AMPK pathway
+gene86	6	4.5	3.4	AMPK pathway
+gene87	6.7	4.7	3.1	AMPK pathway
+gene88	6.3	4.4	2.3	AMPK pathway
+gene89	5.6	4.1	3	AMPK pathway
+gene90	5.5	4	2.5	AMPK pathway
+gene91	5.5	4.4	2.6	AMPK pathway
+gene92	6.1	4.6	3	AMPK pathway
+gene93	5.8	4	2.6	AMPK pathway
+gene94	5	3.3	2.3	AMPK pathway
+gene95	5.6	4.2	2.7	AMPK pathway
+gene96	5.7	4.2	3	AMPK pathway
+gene97	5.7	4.2	2.9	AMPK pathway
+gene98	6.2	4.3	2.9	AMPK pathway
+gene99	5.1	3	2.5	AMPK pathway
+gene100	5.7	4.1	2.8	AMPK pathway
+gene101	6.3	6	3.3	Autophagy pathway
+gene102	5.8	5.1	2.7	Autophagy pathway
+gene103	7.1	5.9	3	Autophagy pathway
+gene104	6.3	5.6	2.9	Autophagy pathway
+gene105	6.5	5.8	3	Autophagy pathway
+gene106	7.6	6.6	3	Autophagy pathway
+gene107	4.9	4.5	2.5	Autophagy pathway
+gene108	7.3	6.3	2.9	Autophagy pathway
+gene109	6.7	5.8	2.5	Autophagy pathway
+gene110	7.2	6.1	3.6	Autophagy pathway
+gene111	6.5	5.1	3.2	Autophagy pathway
+gene112	6.4	5.3	2.7	Autophagy pathway
+gene113	6.8	5.5	3	Autophagy pathway
+gene114	5.7	5	2.5	Autophagy pathway
+gene115	5.8	5.1	2.8	Autophagy pathway
+gene116	6.4	5.3	3.2	Autophagy pathway
+gene117	6.5	5.5	3	Autophagy pathway
+gene118	7.7	6.7	3.8	Autophagy pathway
+gene119	7.7	6.9	2.6	Autophagy pathway
+gene120	6	5	2.2	Autophagy pathway
+gene121	6.9	5.7	3.2	Autophagy pathway
+gene122	5.6	4.9	2.8	Autophagy pathway
+gene123	7.7	6.7	2.8	Autophagy pathway
+gene124	6.3	4.9	2.7	Autophagy pathway
+gene125	6.7	5.7	3.3	Autophagy pathway
+gene126	7.2	6	3.2	Autophagy pathway
+gene127	6.2	4.8	2.8	Autophagy pathway
+gene128	6.1	4.9	3	Autophagy pathway
+gene129	6.4	5.6	2.8	Autophagy pathway
+gene130	7.2	5.8	3	Autophagy pathway
+gene131	7.4	6.1	2.8	Autophagy pathway
+gene132	7.9	6.4	3.8	Autophagy pathway
+gene133	6.4	5.6	2.8	Autophagy pathway
+gene134	6.3	5.1	2.8	Autophagy pathway
+gene135	6.1	5.6	2.6	Autophagy pathway
+gene136	7.7	6.1	3	Autophagy pathway
+gene137	6.3	5.6	3.4	Autophagy pathway
+gene138	6.4	5.5	3.1	Autophagy pathway
+gene139	6	4.8	3	Autophagy pathway
+gene140	6.9	5.4	3.1	Autophagy pathway
+gene141	6.7	5.6	3.1	Autophagy pathway
+gene142	6.9	5.1	3.1	Autophagy pathway
+gene143	5.8	5.1	2.7	Autophagy pathway
+gene144	6.8	5.9	3.2	Autophagy pathway
+gene145	6.7	5.7	3.3	Autophagy pathway
+gene146	6.7	5.2	3	Autophagy pathway
+gene147	6.3	5	2.5	Autophagy pathway
+gene148	6.5	5.2	3	Autophagy pathway
+gene149	6.2	5.4	3.4	Autophagy pathway
+gene150	5.9	5.1	3	Autophagy pathway
+gene151	5.7	4.1	2.8	MAPK pathway
+gene152	6.3	6	3.3	MAPK pathway
+gene153	5.8	5.1	2.7	MAPK pathway
+gene154	7.1	5.9	3	MAPK pathway
+gene155	6.3	5.6	2.9	MAPK pathway
+gene156	6.5	5.8	3	MAPK pathway
+gene157	7.6	6.6	3	MAPK pathway
+gene158	4.9	4.5	2.5	MAPK pathway
+gene159	7.3	6.3	2.9	MAPK pathway
+gene160	6.7	5.8	2.5	MAPK pathway
+gene161	7.2	6.1	3.6	MAPK pathway
+gene162	6.5	5.1	3.2	MAPK pathway
+gene163	6.4	5.3	2.7	MAPK pathway
+gene164	6.8	5.5	3	MAPK pathway
+gene165	5.7	5	2.5	MAPK pathway
+gene166	5.8	5.1	2.8	MAPK pathway
+gene167	6.4	5.3	3.2	MAPK pathway
+gene168	6.5	5.5	3	MAPK pathway
+gene169	7.7	6.7	3.8	MAPK pathway
+gene170	7.7	6.9	2.6	MAPK pathway
+gene171	6	5	2.2	MAPK pathway
+gene172	6.9	5.7	3.2	MAPK pathway
+gene173	5.6	4.9	2.8	MAPK pathway
+gene174	7.7	6.7	2.8	MAPK pathway
+gene175	6.3	4.9	2.7	MAPK pathway
+gene176	6.7	5.7	3.3	MAPK pathway
+gene177	7.2	6	3.2	MAPK pathway
+gene178	6.2	4.8	2.8	MAPK pathway
+gene179	6.1	4.9	3	MAPK pathway
+gene180	6.4	5.6	2.8	MAPK pathway
+gene181	7.2	5.8	3	MAPK pathway
+gene182	7.4	6.1	2.8	MAPK pathway
+gene183	7.9	6.4	3.8	MAPK pathway
+gene184	6.4	5.6	2.8	MAPK pathway
+gene185	6.3	5.1	2.8	MAPK pathway
+gene186	6.1	5.6	2.6	MAPK pathway
+gene187	7.7	6.1	3	MAPK pathway
+gene188	6.3	5.6	3.4	MAPK pathway
+gene189	6.4	5.5	3.1	MAPK pathway
+gene190	6	4.8	3	MAPK pathway
+gene191	6.9	5.4	3.1	MAPK pathway
+gene192	6.7	5.6	3.1	MAPK pathway
+gene193	6.9	5.1	3.1	MAPK pathway
+gene194	5.8	5.1	2.7	MAPK pathway
+gene195	6.8	5.9	3.2	MAPK pathway
+gene196	6.7	5.7	3.3	MAPK pathway
+gene197	6.7	5.2	3	MAPK pathway
+gene198	6.3	5	2.5	MAPK pathway
+gene199	6.5	5.2	3	MAPK pathway
+gene200	6.2	5.4	3.4	MAPK pathway

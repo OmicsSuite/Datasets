@@ -1,0 +1,9 @@
+Length	Level1	Level2
+5	group1	groupA
+10	group2	groupA
+20	group3	groupA
+40	group4	groupA
+6	group1	groupB
+12	group2	groupB
+24	group3	groupB
+48	group4	groupB

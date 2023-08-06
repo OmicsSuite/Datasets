@@ -1,0 +1,12 @@
+node	color
+s__Haemophilus_parainfluenzae	red
+p__Proteobacteria	blue
+f__Veillonellaceae	green
+s__Streptococcus_peroris	red
+c__Negativicutes	green
+p__Fusobacteria	red
+p__Firmicutes	green
+f__Streptococcaceae	red
+o__Bacteroidales	orange
+p__Bacteroidetes	red
+p__Actinobacteria	yellow

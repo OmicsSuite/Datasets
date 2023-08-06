@@ -1,0 +1,1001 @@
+id	biological_process	cellular_component	molecular_function
+gene_1	GO:0003181(atrioventricular valve morphogenesis);GO:0003128(heart field specification);GO:0001756(somitogenesis)	GO:0005576(extracellular region)	NA
+gene_2	NA	GO:0005615(extracellular space)	GO:0004866(endopeptidase inhibitor activity)
+gene_3	NA	NA	NA
+gene_4	GO:0003181(atrioventricular valve morphogenesis);GO:0003128(heart field specification);GO:0001756(somitogenesis)	GO:0005576(extracellular region)	NA
+gene_5	GO:0006956(complement activation)	GO:0005579(membrane attack complex)	NA
+gene_6	NA	NA	NA
+gene_7	NA	NA	NA
+gene_8	NA	NA	NA
+gene_9	NA	NA	GO:0004252(serine-type endopeptidase activity)
+gene_10	NA	NA	NA
+gene_11	NA	NA	NA
+gene_12	GO:0000028(ribosomal small subunit assembly)	GO:0022627(cytosolic small ribosomal subunit)	GO:0003735(structural constituent of ribosome)
+gene_13	NA	NA	NA
+gene_14	NA	NA	NA
+gene_15	GO:0006811(ion transport);GO:0055072(iron ion homeostasis)	GO:0005615(extracellular space)	GO:0046872(metal ion binding)
+gene_16	GO:0006412(translation);GO:0007420(brain development);GO:0051726(regulation of cell cycle)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_17	NA	NA	NA
+gene_18	NA	GO:0016021(integral component of membrane)	NA
+gene_19	NA	NA	NA
+gene_20	GO:0006465(signal peptide processing)	GO:0016021(integral component of membrane);GO:0005787(signal peptidase complex)	GO:0008233(peptidase activity)
+gene_21	NA	NA	NA
+gene_22	GO:0006011(UDP-glucose metabolic process)	NA	GO:0003983(UTP:glucose-1-phosphate uridylyltransferase activity)
+gene_23	NA	NA	NA
+gene_24	NA	NA	NA
+gene_25	NA	NA	GO:0003730(mRNA 3'-UTR binding)
+gene_26	NA	NA	NA
+gene_27	NA	NA	GO:0003824(catalytic activity)
+gene_28	GO:0071542(dopaminergic neuron differentiation);GO:0045892(negative regulation of transcription, DNA-templated)	GO:0005737(cytoplasm);GO:0005634(nucleus)	GO:0046983(protein dimerization activity)
+gene_29	NA	NA	GO:0000062(fatty-acyl-CoA binding)
+gene_30	NA	NA	NA
+gene_31	NA	NA	NA
+gene_32	NA	NA	NA
+gene_33	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_34	NA	NA	NA
+gene_35	GO:0043009(chordate embryonic development);GO:0055113(epiboly involved in gastrulation with mouth forming second);GO:0000280(nuclear division)	NA	NA
+gene_36	NA	GO:0016021(integral component of membrane)	GO:0022857(transmembrane transporter activity)
+gene_37	NA	NA	NA
+gene_38	NA	NA	GO:0004364(glutathione transferase activity)
+gene_39	NA	NA	NA
+gene_40	NA	GO:0005576(extracellular region)	GO:0046872(metal ion binding)
+gene_41	NA	NA	NA
+gene_42	GO:0015986(ATP synthesis coupled proton transport)	GO:0016021(integral component of membrane);GO:0045263(proton-transporting ATP synthase complex, coupling factor F(o))	GO:0008289(lipid binding);GO:0015078(proton transmembrane transporter activity)
+gene_43	NA	NA	NA
+gene_44	NA	NA	NA
+gene_45	NA	NA	NA
+gene_46	GO:0046849(bone remodeling)	GO:0005576(extracellular region)	NA
+gene_47	NA	GO:0016021(integral component of membrane);GO:0005634(nucleus)	GO:0003677(DNA binding)
+gene_48	NA	GO:0005853(eukaryotic translation elongation factor 1 complex)	GO:0003746(translation elongation factor activity)
+gene_49	NA	NA	GO:0003723(RNA binding)
+gene_50	NA	NA	NA
+gene_51	NA	NA	NA
+gene_52	NA	NA	NA
+gene_53	NA	NA	NA
+gene_54	NA	NA	NA
+gene_55	GO:0001525(angiogenesis);GO:1902262(apoptotic process involved in blood vessel morphogenesis);GO:0043066(negative regulation of apoptotic process);GO:0009617(response to bacterium)	GO:0005615(extracellular space)	NA
+gene_56	GO:0006241(CTP biosynthetic process);GO:0006183(GTP biosynthetic process);GO:0006228(UTP biosynthetic process)	NA	GO:0005524(ATP binding);GO:0004550(nucleoside diphosphate kinase activity)
+gene_57	GO:0030150(protein import into mitochondrial matrix)	GO:0005744(TIM23 mitochondrial import inner membrane translocase complex)	NA
+gene_58	GO:0043009(chordate embryonic development);GO:0055113(epiboly involved in gastrulation with mouth forming second);GO:0000280(nuclear division)	NA	NA
+gene_59	NA	NA	NA
+gene_60	NA	NA	NA
+gene_61	GO:0006120(mitochondrial electron transport, NADH to ubiquinone)	GO:0005743(mitochondrial inner membrane);GO:0070469(respirasome)	GO:0008137(NADH dehydrogenase (ubiquinone) activity)
+gene_62	NA	NA	NA
+gene_63	NA	NA	NA
+gene_64	NA	NA	NA
+gene_65	NA	NA	NA
+gene_66	NA	NA	NA
+gene_67	GO:0015986(ATP synthesis coupled proton transport)	GO:0000276(mitochondrial proton-transporting ATP synthase complex, coupling factor F(o))	GO:0047624(adenosine-tetraphosphatase activity);GO:0015078(proton transmembrane transporter activity);GO:0016887(ATPase activity)
+gene_68	GO:0071236(cellular response to antibiotic);GO:0071493(cellular response to UV-B);GO:0008630(intrinsic apoptotic signaling pathway in response to DNA damage);GO:0010043(response to zinc ion)	GO:0005737(cytoplasm)	GO:0046872(metal ion binding);GO:0003680(AT DNA binding);GO:0008301(DNA binding, bending);GO:0042277(peptide binding);GO:0008270(zinc ion binding)
+gene_69	NA	NA	NA
+gene_70	NA	NA	NA
+gene_71	NA	NA	NA
+gene_72	GO:0006412(translation)	GO:0005840(ribosome)	GO:0046872(metal ion binding);GO:0003735(structural constituent of ribosome)
+gene_73	GO:0043009(chordate embryonic development);GO:0055113(epiboly involved in gastrulation with mouth forming second);GO:0000280(nuclear division)	NA	NA
+gene_74	NA	NA	NA
+gene_75	NA	NA	GO:0008146(sulfotransferase activity)
+gene_76	NA	NA	NA
+gene_77	NA	NA	NA
+gene_78	NA	NA	NA
+gene_79	NA	NA	NA
+gene_80	NA	NA	NA
+gene_81	NA	NA	NA
+gene_82	NA	NA	NA
+gene_83	NA	NA	NA
+gene_84	GO:0006956(complement activation)	GO:0005579(membrane attack complex)	NA
+gene_85	NA	NA	NA
+gene_86	NA	NA	NA
+gene_87	NA	NA	NA
+gene_88	GO:0009058(biosynthetic process)	NA	GO:0003824(catalytic activity)
+gene_89	GO:0006096(glycolytic process)	GO:0000015(phosphopyruvate hydratase complex)	GO:0000287(magnesium ion binding);GO:0004634(phosphopyruvate hydratase activity)
+gene_90	NA	NA	NA
+gene_91	GO:0043009(chordate embryonic development);GO:0055113(epiboly involved in gastrulation with mouth forming second);GO:0000280(nuclear division)	NA	NA
+gene_92	GO:0006508(proteolysis)	GO:0005576(extracellular region)	NA
+gene_93	NA	NA	GO:0016620(oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor)
+gene_94	NA	NA	NA
+gene_95	GO:0006457(protein folding)	NA	GO:0051082(unfolded protein binding)
+gene_96	NA	NA	NA
+gene_97	NA	NA	NA
+gene_98	NA	NA	GO:0003723(RNA binding)
+gene_99	NA	NA	NA
+gene_100	GO:0006412(translation)	GO:0022625(cytosolic large ribosomal subunit)	GO:0003723(RNA binding);GO:0003735(structural constituent of ribosome)
+gene_101	NA	NA	NA
+gene_102	NA	NA	NA
+gene_103	NA	NA	NA
+gene_104	NA	NA	NA
+gene_105	GO:0019264(glycine biosynthetic process from serine);GO:0032259(methylation);GO:0035999(tetrahydrofolate interconversion)	NA	GO:0004372(glycine hydroxymethyltransferase activity);GO:0008168(methyltransferase activity);GO:0030170(pyridoxal phosphate binding)
+gene_106	NA	NA	NA
+gene_107	GO:0006879(cellular iron ion homeostasis);GO:0006826(iron ion transport)	GO:0005623(cell)	GO:0008199(ferric iron binding)
+gene_108	GO:0019722(calcium-mediated signaling)	NA	GO:0005509(calcium ion binding)
+gene_109	NA	NA	NA
+gene_110	NA	NA	NA
+gene_111	NA	NA	NA
+gene_112	GO:0009116(nucleoside metabolic process);GO:0009166(nucleotide catabolic process);GO:0044206(UMP salvage)	GO:0005737(cytoplasm)	GO:0004850(uridine phosphorylase activity)
+gene_113	GO:0032981(mitochondrial respiratory chain complex I assembly)	NA	NA
+gene_114	NA	NA	GO:0032052(bile acid binding);GO:0008289(lipid binding)
+gene_115	NA	NA	NA
+gene_116	GO:0006412(translation)	GO:0015935(small ribosomal subunit)	GO:0019843(rRNA binding);GO:0003735(structural constituent of ribosome)
+gene_117	NA	NA	NA
+gene_118	NA	NA	NA
+gene_119	NA	NA	NA
+gene_120	NA	NA	NA
+gene_121	NA	NA	NA
+gene_122	NA	NA	GO:0005319(lipid transporter activity)
+gene_123	GO:0006412(translation)	GO:0022625(cytosolic large ribosomal subunit)	GO:0003723(RNA binding);GO:0003735(structural constituent of ribosome)
+gene_124	NA	NA	GO:0030246(carbohydrate binding)
+gene_125	NA	NA	NA
+gene_126	GO:0032543(mitochondrial translation)	GO:0005762(mitochondrial large ribosomal subunit)	GO:0003735(structural constituent of ribosome)
+gene_127	NA	NA	NA
+gene_128	NA	NA	GO:0003723(RNA binding)
+gene_129	GO:0015721(bile acid and bile salt transport)	GO:0016021(integral component of membrane);GO:0005886(plasma membrane)	GO:0046982(protein heterodimerization activity);GO:0022857(transmembrane transporter activity)
+gene_130	NA	NA	NA
+gene_131	NA	NA	NA
+gene_132	GO:0006487(protein N-linked glycosylation)	GO:0016021(integral component of membrane);GO:0008250(oligosaccharyltransferase complex)	NA
+gene_133	NA	NA	NA
+gene_134	NA	NA	NA
+gene_135	GO:0001568(blood vessel development);GO:0050900(leukocyte migration);GO:0006457(protein folding)	NA	GO:0005524(ATP binding);GO:0051082(unfolded protein binding)
+gene_136	NA	NA	NA
+gene_137	NA	NA	NA
+gene_138	NA	NA	NA
+gene_139	NA	NA	GO:0005525(GTP binding)
+gene_140	NA	NA	NA
+gene_141	GO:0015889(cobalamin transport)	NA	GO:0031419(cobalamin binding)
+gene_142	GO:0070121(Kupffer's vesicle development);GO:0006457(protein folding)	GO:0005737(cytoplasm)	GO:0005524(ATP binding);GO:0051082(unfolded protein binding)
+gene_143	NA	NA	NA
+gene_144	NA	NA	NA
+gene_145	NA	GO:0016021(integral component of membrane)	GO:0030246(carbohydrate binding)
+gene_146	NA	NA	NA
+gene_147	NA	GO:0016021(integral component of membrane)	NA
+gene_148	NA	NA	NA
+gene_149	NA	NA	NA
+gene_150	NA	NA	NA
+gene_151	NA	GO:0016021(integral component of membrane);GO:0005746(mitochondrial respirasome)	GO:0004129(cytochrome-c oxidase activity)
+gene_152	NA	NA	NA
+gene_153	NA	NA	NA
+gene_154	GO:0000256(allantoin catabolic process)	NA	GO:0004037(allantoicase activity)
+gene_155	NA	GO:0005833(hemoglobin complex)	GO:0020037(heme binding);GO:0046872(metal ion binding);GO:0019825(oxygen binding);GO:0005344(oxygen carrier activity)
+gene_156	GO:0007596(blood coagulation);GO:0042730(fibrinolysis);GO:0048771(tissue remodeling)	GO:0005576(extracellular region)	GO:0004252(serine-type endopeptidase activity)
+gene_157	NA	NA	NA
+gene_158	GO:0043009(chordate embryonic development);GO:0055113(epiboly involved in gastrulation with mouth forming second);GO:0000280(nuclear division)	NA	NA
+gene_159	GO:0007602(phototransduction);GO:0007601(visual perception)	GO:0016021(integral component of membrane)	GO:0004930(G protein-coupled receptor activity)
+gene_160	NA	NA	NA
+gene_161	GO:0006397(mRNA processing);GO:0008380(RNA splicing)	GO:0005681(spliceosomal complex)	GO:0003723(RNA binding)
+gene_162	GO:0043409(negative regulation of MAPK cascade)	NA	NA
+gene_163	NA	NA	GO:0004252(serine-type endopeptidase activity)
+gene_164	NA	GO:0030014(CCR4-NOT complex)	NA
+gene_165	NA	GO:0005737(cytoplasm)	GO:0004177(aminopeptidase activity);GO:0030145(manganese ion binding);GO:0008235(metalloexopeptidase activity)
+gene_166	NA	NA	GO:0036094(small molecule binding)
+gene_167	NA	NA	NA
+gene_168	GO:0001666(response to hypoxia)	GO:0016021(integral component of membrane)	GO:0004129(cytochrome-c oxidase activity)
+gene_169	GO:0006953(acute-phase response);GO:0007596(blood coagulation)	GO:0005576(extracellular region)	GO:0005509(calcium ion binding);GO:0004252(serine-type endopeptidase activity)
+gene_170	NA	GO:0016021(integral component of membrane)	GO:0004869(cysteine-type endopeptidase inhibitor activity)
+gene_171	NA	NA	NA
+gene_172	NA	NA	NA
+gene_173	GO:0015986(ATP synthesis coupled proton transport)	GO:0045261(proton-transporting ATP synthase complex, catalytic core F(1))	GO:0005524(ATP binding);GO:0046933(proton-transporting ATP synthase activity, rotational mechanism)
+gene_174	NA	NA	NA
+gene_175	NA	NA	NA
+gene_176	NA	NA	NA
+gene_177	NA	NA	NA
+gene_178	NA	NA	NA
+gene_179	NA	NA	NA
+gene_180	NA	NA	NA
+gene_181	NA	NA	NA
+gene_182	NA	NA	NA
+gene_183	GO:0006879(cellular iron ion homeostasis);GO:0006826(iron ion transport)	GO:0005623(cell);GO:0005615(extracellular space);GO:0005737(cytoplasm);GO:0005634(nucleus)	GO:0005507(copper ion binding);GO:0004322(ferroxidase activity)
+gene_184	NA	NA	GO:0004252(serine-type endopeptidase activity)
+gene_185	NA	NA	NA
+gene_186	NA	NA	NA
+gene_187	NA	NA	NA
+gene_188	NA	NA	NA
+gene_189	GO:0006629(lipid metabolic process)	NA	GO:0016788(hydrolase activity, acting on ester bonds)
+gene_190	GO:0006956(complement activation)	GO:0005576(extracellular region)	GO:0004252(serine-type endopeptidase activity)
+gene_191	NA	NA	NA
+gene_192	GO:0006412(translation)	GO:0015934(large ribosomal subunit)	GO:0003723(RNA binding);GO:0003735(structural constituent of ribosome)
+gene_193	NA	NA	NA
+gene_194	NA	NA	NA
+gene_195	NA	NA	NA
+gene_196	NA	NA	NA
+gene_197	NA	NA	NA
+gene_198	NA	NA	NA
+gene_199	NA	NA	NA
+gene_200	NA	NA	GO:0016153(urocanate hydratase activity)
+gene_201	NA	NA	NA
+gene_202	NA	NA	NA
+gene_203	GO:0006953(acute-phase response);GO:1990266(neutrophil migration);GO:0009617(response to bacterium)	GO:0034364(high-density lipoprotein particle)	NA
+gene_204	NA	NA	NA
+gene_205	NA	NA	NA
+gene_206	NA	NA	GO:0005524(ATP binding);GO:0004674(protein serine/threonine kinase activity)
+gene_207	GO:0006412(translation)	GO:0015934(large ribosomal subunit)	GO:0003735(structural constituent of ribosome)
+gene_208	NA	NA	NA
+gene_209	GO:0043009(chordate embryonic development);GO:0055113(epiboly involved in gastrulation with mouth forming second);GO:0000280(nuclear division)	NA	NA
+gene_210	NA	NA	NA
+gene_211	NA	NA	GO:0004181(metallocarboxypeptidase activity);GO:0008270(zinc ion binding)
+gene_212	NA	NA	GO:0008234(cysteine-type peptidase activity)
+gene_213	NA	NA	GO:0004252(serine-type endopeptidase activity)
+gene_214	NA	NA	NA
+gene_215	NA	NA	GO:0004252(serine-type endopeptidase activity)
+gene_216	GO:0072378(blood coagulation, fibrin clot formation);GO:0030168(platelet activation);GO:0051258(protein polymerization)	GO:0005577(fibrinogen complex)	GO:0005102(signaling receptor binding)
+gene_217	NA	GO:0016021(integral component of membrane)	NA
+gene_218	NA	GO:0016021(integral component of membrane)	GO:0016747(transferase activity, transferring acyl groups other than amino-acyl groups)
+gene_219	GO:0006614(SRP-dependent cotranslational protein targeting to membrane)	GO:0016021(integral component of membrane)	NA
+gene_220	GO:0003081(regulation of systemic arterial blood pressure by renin-angiotensin)	GO:0005615(extracellular space)	NA
+gene_221	NA	NA	NA
+gene_222	GO:0030212(hyaluronan metabolic process)	NA	GO:0004867(serine-type endopeptidase inhibitor activity)
+gene_223	NA	GO:0016021(integral component of membrane)	NA
+gene_224	NA	NA	NA
+gene_225	NA	NA	NA
+gene_226	NA	NA	NA
+gene_227	NA	NA	NA
+gene_228	NA	NA	NA
+gene_229	NA	GO:0016021(integral component of membrane)	NA
+gene_230	GO:0043009(chordate embryonic development);GO:0055113(epiboly involved in gastrulation with mouth forming second);GO:0000280(nuclear division)	NA	NA
+gene_231	NA	NA	NA
+gene_232	NA	NA	NA
+gene_233	NA	GO:0005576(extracellular region)	GO:0004252(serine-type endopeptidase activity);GO:0005509(calcium ion binding)
+gene_234	NA	NA	NA
+gene_235	NA	NA	NA
+gene_236	GO:0045454(cell redox homeostasis)	GO:0005623(cell);GO:0005788(endoplasmic reticulum lumen)	GO:0003756(protein disulfide isomerase activity)
+gene_237	NA	NA	NA
+gene_238	NA	NA	NA
+gene_239	NA	NA	NA
+gene_240	GO:0009058(biosynthetic process);GO:0006520(cellular amino acid metabolic process)	NA	GO:0004069(L-aspartate:2-oxoglutarate aminotransferase activity);GO:0030170(pyridoxal phosphate binding)
+gene_241	GO:0007160(cell-matrix adhesion)	GO:0005576(extracellular region)	GO:0005509(calcium ion binding)
+gene_242	GO:0055114(oxidation-reduction process)	NA	NA
+gene_243	NA	NA	NA
+gene_244	GO:0009072(aromatic amino acid family metabolic process)	GO:0005737(cytoplasm)	GO:0003824(catalytic activity)
+gene_245	NA	NA	NA
+gene_246	GO:0043009(chordate embryonic development);GO:0032780(negative regulation of ATPase activity)	GO:0005739(mitochondrion)	GO:0042030(ATPase inhibitor activity)
+gene_247	NA	NA	NA
+gene_248	NA	NA	NA
+gene_249	GO:0042157(lipoprotein metabolic process)	GO:0005576(extracellular region);GO:0016021(integral component of membrane)	NA
+gene_250	NA	NA	NA
+gene_251	NA	GO:0016021(integral component of membrane)	NA
+gene_252	NA	NA	NA
+gene_253	NA	GO:0005833(hemoglobin complex)	GO:0020037(heme binding);GO:0005506(iron ion binding);GO:0019825(oxygen binding);GO:0005344(oxygen carrier activity)
+gene_254	NA	NA	NA
+gene_255	NA	NA	NA
+gene_256	GO:0060059(embryonic retina morphogenesis in camera-type eye);GO:0007634(optokinetic behavior);GO:0006412(translation)	GO:0015934(large ribosomal subunit)	GO:0003735(structural constituent of ribosome)
+gene_257	NA	NA	NA
+gene_258	NA	NA	NA
+gene_259	GO:0009060(aerobic respiration);GO:0006119(oxidative phosphorylation)	GO:0016021(integral component of membrane);GO:0005743(mitochondrial inner membrane);GO:0045277(respiratory chain complex IV)	GO:0004129(cytochrome-c oxidase activity);GO:0020037(heme binding);GO:0046872(metal ion binding)
+gene_260	NA	GO:0005833(hemoglobin complex)	GO:0020037(heme binding);GO:0046872(metal ion binding);GO:0019825(oxygen binding);GO:0005344(oxygen carrier activity)
+gene_261	NA	NA	NA
+gene_262	NA	NA	NA
+gene_263	NA	NA	NA
+gene_264	NA	NA	GO:0004252(serine-type endopeptidase activity)
+gene_265	NA	GO:0005634(nucleus)	GO:0003677(DNA binding);GO:0003700(DNA-binding transcription factor activity)
+gene_266	GO:0005975(carbohydrate metabolic process);GO:0006108(malate metabolic process);GO:0006099(tricarboxylic acid cycle)	NA	GO:0030060(L-malate dehydrogenase activity)
+gene_267	NA	NA	NA
+gene_268	GO:0030218(erythrocyte differentiation);GO:0006414(translational elongation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_269	NA	NA	NA
+gene_270	NA	NA	GO:0003824(catalytic activity)
+gene_271	NA	NA	NA
+gene_272	NA	NA	NA
+gene_273	NA	GO:0016021(integral component of membrane)	GO:0004129(cytochrome-c oxidase activity)
+gene_274	GO:0007420(brain development);GO:0001732(formation of cytoplasmic translation initiation complex);GO:0048882(lateral line development);GO:0001944(vasculature development)	GO:0016282(eukaryotic 43S preinitiation complex);GO:0033290(eukaryotic 48S preinitiation complex);GO:0005852(eukaryotic translation initiation factor 3 complex)	GO:0003743(translation initiation factor activity)
+gene_275	GO:0031016(pancreas development);GO:0051726(regulation of cell cycle);GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_276	GO:1902626(assembly of large subunit precursor of preribosome);GO:0000027(ribosomal large subunit assembly);GO:0006412(translation)	GO:0022625(cytosolic large ribosomal subunit)	GO:0003723(RNA binding);GO:0003735(structural constituent of ribosome)
+gene_277	NA	NA	NA
+gene_278	GO:0043009(chordate embryonic development);GO:0006412(translation)	GO:0022627(cytosolic small ribosomal subunit)	GO:0003735(structural constituent of ribosome)
+gene_279	NA	NA	NA
+gene_280	GO:0002244(hematopoietic progenitor cell differentiation);GO:0060841(venous blood vessel development)	NA	GO:0004301(epoxide hydrolase activity)
+gene_281	NA	NA	NA
+gene_282	NA	NA	NA
+gene_283	NA	NA	GO:0005509(calcium ion binding)
+gene_284	NA	NA	NA
+gene_285	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_286	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003723(RNA binding);GO:0003735(structural constituent of ribosome)
+gene_287	GO:0007596(blood coagulation);GO:0042730(fibrinolysis);GO:0048771(tissue remodeling)	GO:0005576(extracellular region)	GO:0004252(serine-type endopeptidase activity)
+gene_288	NA	NA	NA
+gene_289	GO:0042157(lipoprotein metabolic process)	GO:0005576(extracellular region);GO:0016021(integral component of membrane)	NA
+gene_290	NA	NA	NA
+gene_291	NA	NA	NA
+gene_292	NA	NA	NA
+gene_293	GO:0071391(cellular response to estrogen stimulus)	NA	GO:0008453(alanine-glyoxylate transaminase activity);GO:0004760(serine-pyruvate transaminase activity)
+gene_294	NA	NA	NA
+gene_295	NA	NA	NA
+gene_296	GO:0006412(translation)	GO:0022627(cytosolic small ribosomal subunit);GO:0015935(small ribosomal subunit)	GO:0003735(structural constituent of ribosome)
+gene_297	NA	NA	NA
+gene_298	NA	NA	GO:0005524(ATP binding)
+gene_299	NA	GO:0016021(integral component of membrane)	NA
+gene_300	NA	GO:0005743(mitochondrial inner membrane);GO:0070469(respirasome)	GO:0009055(electron transfer activity);GO:0008137(NADH dehydrogenase (ubiquinone) activity)
+gene_301	GO:0006465(signal peptide processing)	GO:0016021(integral component of membrane);GO:0005787(signal peptidase complex)	GO:0008233(peptidase activity)
+gene_302	GO:0001906(cell killing);GO:0006957(complement activation, alternative pathway);GO:0006958(complement activation, classical pathway);GO:0019835(cytolysis);GO:0051260(protein homooligomerization);GO:0071391(cellular response to estrogen stimulus);GO:0006955(immune response)	GO:0005615(extracellular space);GO:0005579(membrane attack complex);GO:0044218(other organism cell membrane);GO:0005886(plasma membrane)	NA
+gene_303	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_304	NA	NA	GO:0019904(protein domain specific binding)
+gene_305	NA	NA	NA
+gene_306	NA	GO:0005747(mitochondrial respiratory chain complex I)	NA
+gene_307	NA	NA	NA
+gene_308	NA	NA	NA
+gene_309	NA	NA	NA
+gene_310	NA	NA	GO:0005509(calcium ion binding)
+gene_311	NA	NA	NA
+gene_312	GO:0042572(retinol metabolic process);GO:0070327(thyroid hormone transport)	GO:0005576(extracellular region)	GO:0070324(thyroid hormone binding)
+gene_313	GO:0045916(negative regulation of complement activation);GO:0030193(regulation of blood coagulation)	GO:0005615(extracellular space)	GO:0004867(serine-type endopeptidase inhibitor activity)
+gene_314	NA	NA	NA
+gene_315	NA	GO:0016021(integral component of membrane)	NA
+gene_316	NA	NA	NA
+gene_317	NA	GO:0005615(extracellular space)	NA
+gene_318	NA	GO:0005634(nucleus)	NA
+gene_319	NA	NA	NA
+gene_320	NA	NA	GO:0003723(RNA binding)
+gene_321	NA	NA	NA
+gene_322	NA	NA	NA
+gene_323	NA	NA	NA
+gene_324	NA	NA	GO:0004252(serine-type endopeptidase activity)
+gene_325	NA	NA	NA
+gene_326	GO:0007264(small GTPase mediated signal transduction)	NA	GO:0005525(GTP binding);GO:0003924(GTPase activity)
+gene_327	GO:0015986(ATP synthesis coupled proton transport)	GO:0000276(mitochondrial proton-transporting ATP synthase complex, coupling factor F(o))	GO:0015078(proton transmembrane transporter activity)
+gene_328	GO:0008654(phospholipid biosynthetic process)	GO:0016021(integral component of membrane)	GO:0016780(phosphotransferase activity, for other substituted phosphate groups)
+gene_329	NA	NA	NA
+gene_330	NA	NA	NA
+gene_331	GO:0019646(aerobic electron transport chain)	GO:0016021(integral component of membrane);GO:0005739(mitochondrion)	GO:0004129(cytochrome-c oxidase activity)
+gene_332	NA	NA	NA
+gene_333	NA	NA	NA
+gene_334	NA	NA	NA
+gene_335	GO:0007368(determination of left/right symmetry);GO:0008543(fibroblast growth factor receptor signaling pathway);GO:0070121(Kupffer's vesicle development);GO:0030917(midbrain-hindbrain boundary development);GO:0040036(regulation of fibroblast growth factor receptor signaling pathway)	GO:0005783(endoplasmic reticulum)	NA
+gene_336	NA	NA	NA
+gene_337	NA	NA	NA
+gene_338	NA	GO:0016021(integral component of membrane);GO:0005743(mitochondrial inner membrane)	GO:0022857(transmembrane transporter activity);GO:0005471(ATP:ADP antiporter activity)
+gene_339	NA	NA	NA
+gene_340	GO:0071230(cellular response to amino acid stimulus);GO:0032008(positive regulation of TOR signaling)	GO:0071986(Ragulator complex)	NA
+gene_341	NA	NA	NA
+gene_342	NA	NA	NA
+gene_343	NA	NA	NA
+gene_344	NA	NA	NA
+gene_345	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_346	NA	NA	NA
+gene_347	NA	NA	NA
+gene_348	GO:0060070(canonical Wnt signaling pathway);GO:0006357(regulation of transcription by RNA polymerase II)	GO:0005634(nucleus)	GO:0008013(beta-catenin binding);GO:0003677(DNA binding)
+gene_349	NA	GO:0016021(integral component of membrane);GO:0031966(mitochondrial membrane);GO:0070469(respirasome)	GO:0008137(NADH dehydrogenase (ubiquinone) activity)
+gene_350	NA	NA	NA
+gene_351	NA	NA	NA
+gene_352	NA	NA	NA
+gene_353	GO:0072378(blood coagulation, fibrin clot formation);GO:0030168(platelet activation);GO:0051258(protein polymerization)	GO:0005577(fibrinogen complex)	GO:0005102(signaling receptor binding)
+gene_354	GO:0030218(erythrocyte differentiation);GO:0030490(maturation of SSU-rRNA);GO:0000462(maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA));GO:0000122(negative regulation of transcription by RNA polymerase II);GO:0000028(ribosomal small subunit assembly);GO:0006412(translation)	GO:0022627(cytosolic small ribosomal subunit);GO:0005730(nucleolus);GO:0014069(postsynaptic density)	GO:0048027(mRNA 5'-UTR binding);GO:0003723(RNA binding);GO:0070181(small ribosomal subunit rRNA binding);GO:0003735(structural constituent of ribosome);GO:0045182(translation regulator activity)
+gene_355	NA	GO:0016021(integral component of membrane)	NA
+gene_356	GO:0000387(spliceosomal snRNP assembly)	GO:0005681(spliceosomal complex)	GO:0003723(RNA binding)
+gene_357	NA	NA	NA
+gene_358	GO:0006412(translation)	GO:0015935(small ribosomal subunit)	GO:0003723(RNA binding);GO:0003735(structural constituent of ribosome)
+gene_359	NA	NA	NA
+gene_360	NA	GO:0005615(extracellular space)	GO:0004869(cysteine-type endopeptidase inhibitor activity)
+gene_361	NA	NA	NA
+gene_362	NA	NA	GO:0008170(N-methyltransferase activity)
+gene_363	NA	GO:0005615(extracellular space)	NA
+gene_364	NA	NA	NA
+gene_365	NA	NA	NA
+gene_366	GO:0006956(complement activation)	GO:0005576(extracellular region)	GO:0004252(serine-type endopeptidase activity)
+gene_367	NA	NA	NA
+gene_368	NA	NA	NA
+gene_369	NA	NA	NA
+gene_370	GO:0006457(protein folding);GO:0043627(response to estrogen)	GO:0005737(cytoplasm);GO:0005634(nucleus)	GO:0005524(ATP binding);GO:0051082(unfolded protein binding)
+gene_371	NA	NA	NA
+gene_372	NA	NA	NA
+gene_373	NA	NA	NA
+gene_374	NA	NA	NA
+gene_375	NA	NA	NA
+gene_376	NA	NA	NA
+gene_377	NA	NA	NA
+gene_378	GO:0006412(translation)	GO:0005840(ribosome)	GO:0046872(metal ion binding);GO:0003735(structural constituent of ribosome)
+gene_379	GO:0006120(mitochondrial electron transport, NADH to ubiquinone)	GO:0005747(mitochondrial respiratory chain complex I)	NA
+gene_380	NA	NA	NA
+gene_381	GO:0031101(fin regeneration);GO:0030097(hemopoiesis);GO:0006457(protein folding)	NA	GO:0005524(ATP binding);GO:0051082(unfolded protein binding)
+gene_382	NA	NA	NA
+gene_383	GO:0060216(definitive hemopoiesis);GO:0060215(primitive hemopoiesis);GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_384	GO:0006457(protein folding)	GO:0016272(prefoldin complex)	GO:0051082(unfolded protein binding)
+gene_385	GO:0007186(G protein-coupled receptor signaling pathway)	GO:0005834(heterotrimeric G-protein complex)	GO:0003924(GTPase activity)
+gene_386	NA	NA	NA
+gene_387	NA	NA	NA
+gene_388	GO:0015986(ATP synthesis coupled proton transport)	GO:0016021(integral component of membrane);GO:0000276(mitochondrial proton-transporting ATP synthase complex, coupling factor F(o));GO:0045263(proton-transporting ATP synthase complex, coupling factor F(o))	GO:0008289(lipid binding);GO:0046933(proton-transporting ATP synthase activity, rotational mechanism);GO:0015078(proton transmembrane transporter activity)
+gene_389	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_390	NA	NA	NA
+gene_391	GO:0015986(ATP synthesis coupled proton transport)	GO:0016021(integral component of membrane);GO:0005743(mitochondrial inner membrane);GO:0045263(proton-transporting ATP synthase complex, coupling factor F(o))	GO:0015078(proton transmembrane transporter activity)
+gene_392	NA	NA	NA
+gene_393	NA	GO:0016021(integral component of membrane)	NA
+gene_394	NA	GO:0005833(hemoglobin complex)	GO:0020037(heme binding);GO:0046872(metal ion binding);GO:0019825(oxygen binding);GO:0005344(oxygen carrier activity)
+gene_395	NA	NA	NA
+gene_396	NA	NA	NA
+gene_397	NA	NA	NA
+gene_398	NA	NA	NA
+gene_399	NA	NA	NA
+gene_400	NA	NA	NA
+gene_401	GO:0006412(translation)	GO:0015935(small ribosomal subunit)	GO:0003723(RNA binding);GO:0003735(structural constituent of ribosome)
+gene_402	GO:0006412(translation);GO:0072717(cellular response to actinomycin D);GO:0071157(negative regulation of cell cycle arrest);GO:0000122(negative regulation of transcription by RNA polymerase II);GO:1904667(negative regulation of ubiquitin protein ligase activity);GO:2000059(negative regulation of ubiquitin-dependent protein catabolic process);GO:0071158(positive regulation of cell cycle arrest);GO:0008284(positive regulation of cell population proliferation);GO:0010628(positive regulation of gene expression);GO:1901798(positive regulation of signal transduction by p53 class mediator);GO:0050821(protein stabilization);GO:0032986(protein-DNA complex disassembly)	GO:0022625(cytosolic large ribosomal subunit);GO:0005730(nucleolus);GO:0014069(postsynaptic density);GO:0005737(cytoplasm);GO:0022626(cytosolic ribosome);GO:0005654(nucleoplasm);GO:0032991(protein-containing complex);GO:0005840(ribosome);GO:0098556(cytoplasmic side of rough endoplasmic reticulum membrane);GO:0015934(large ribosomal subunit)	GO:0003735(structural constituent of ribosome);GO:0070180(large ribosomal subunit rRNA binding);GO:0001223(transcription coactivator binding);GO:1990948(ubiquitin ligase inhibitor activity);GO:0031625(ubiquitin protein ligase binding)
+gene_403	NA	NA	NA
+gene_404	NA	NA	NA
+gene_405	NA	NA	GO:0004252(serine-type endopeptidase activity)
+gene_406	NA	NA	NA
+gene_407	NA	NA	NA
+gene_408	NA	NA	NA
+gene_409	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_410	NA	NA	NA
+gene_411	NA	NA	NA
+gene_412	GO:0006879(cellular iron ion homeostasis)	GO:0005623(cell);GO:0005576(extracellular region)	GO:0015232(heme transporter activity);GO:0046872(metal ion binding)
+gene_413	NA	NA	NA
+gene_414	GO:0006707(cholesterol catabolic process)	GO:0016021(integral component of membrane)	GO:0033781(cholesterol 24-hydroxylase activity);GO:0020037(heme binding);GO:0005506(iron ion binding)
+gene_415	NA	NA	NA
+gene_416	NA	GO:0005615(extracellular space)	NA
+gene_417	NA	NA	NA
+gene_418	NA	NA	NA
+gene_419	NA	NA	NA
+gene_420	GO:0043009(chordate embryonic development);GO:0001947(heart looping)	NA	GO:0008289(lipid binding)
+gene_421	NA	NA	NA
+gene_422	NA	NA	NA
+gene_423	NA	GO:0005615(extracellular space)	NA
+gene_424	GO:0009058(biosynthetic process);GO:0006559(L-phenylalanine catabolic process)	NA	GO:0004838(L-tyrosine:2-oxoglutarate aminotransferase activity);GO:0030170(pyridoxal phosphate binding)
+gene_425	NA	NA	NA
+gene_426	NA	NA	NA
+gene_427	NA	NA	NA
+gene_428	NA	NA	GO:0016787(hydrolase activity);GO:0046872(metal ion binding);GO:0003676(nucleic acid binding)
+gene_429	NA	GO:0005665(RNA polymerase II, core complex)	GO:0003677(DNA binding);GO:0046983(protein dimerization activity);GO:0001055(RNA polymerase II activity)
+gene_430	NA	NA	NA
+gene_431	NA	NA	NA
+gene_432	NA	NA	NA
+gene_433	GO:0006094(gluconeogenesis);GO:0006096(glycolytic process)	NA	GO:0004347(glucose-6-phosphate isomerase activity)
+gene_434	NA	NA	NA
+gene_435	NA	NA	NA
+gene_436	GO:0006956(complement activation)	GO:0005576(extracellular region)	GO:0004252(serine-type endopeptidase activity)
+gene_437	NA	NA	NA
+gene_438	GO:0006122(mitochondrial electron transport, ubiquinol to cytochrome c)	GO:0005750(mitochondrial respiratory chain complex III);GO:0016021(integral component of membrane)	NA
+gene_439	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_440	NA	NA	GO:0030246(carbohydrate binding)
+gene_441	GO:0015986(ATP synthesis coupled proton transport)	GO:0045261(proton-transporting ATP synthase complex, catalytic core F(1))	GO:0005524(ATP binding);GO:0046933(proton-transporting ATP synthase activity, rotational mechanism)
+gene_442	NA	NA	NA
+gene_443	NA	GO:0016021(integral component of membrane);GO:0005743(mitochondrial inner membrane);GO:0070469(respirasome)	GO:0005507(copper ion binding);GO:0004129(cytochrome-c oxidase activity)
+gene_444	NA	NA	NA
+gene_445	NA	NA	NA
+gene_446	NA	GO:0005739(mitochondrion)	GO:0008137(NADH dehydrogenase (ubiquinone) activity)
+gene_447	GO:0007165(signal transduction)	NA	NA
+gene_448	GO:0006412(translation);GO:0007420(brain development);GO:1990403(embryonic brain development)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome);GO:0045182(translation regulator activity)
+gene_449	NA	NA	NA
+gene_450	NA	NA	NA
+gene_451	GO:0006289(nucleotide-excision repair);GO:0006355(regulation of transcription, DNA-templated)	GO:0000439(transcription factor TFIIH core complex)	NA
+gene_452	NA	NA	NA
+gene_453	GO:0009072(aromatic amino acid family metabolic process)	NA	GO:0003868(4-hydroxyphenylpyruvate dioxygenase activity);GO:0004462(lactoylglutathione lyase activity);GO:0046872(metal ion binding)
+gene_454	NA	NA	NA
+gene_455	NA	NA	NA
+gene_456	NA	NA	NA
+gene_457	NA	NA	NA
+gene_458	GO:0006003(fructose 2,6-bisphosphate metabolic process);GO:0006000(fructose metabolic process)	NA	GO:0003873(6-phosphofructo-2-kinase activity);GO:0005524(ATP binding)
+gene_459	GO:0034354('de novo' NAD biosynthetic process from tryptophan);GO:0043420(anthranilate metabolic process);GO:0019805(quinolinate biosynthetic process);GO:0006569(tryptophan catabolic process)	GO:0005737(cytoplasm)	GO:0000334(3-hydroxyanthranilate 3,4-dioxygenase activity);GO:0008198(ferrous iron binding)
+gene_460	GO:0006412(translation)	GO:0015935(small ribosomal subunit)	GO:0003723(RNA binding);GO:0003735(structural constituent of ribosome)
+gene_461	NA	GO:0016021(integral component of membrane)	GO:0004129(cytochrome-c oxidase activity)
+gene_462	GO:0051726(regulation of cell cycle);GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_463	NA	NA	NA
+gene_464	NA	NA	GO:0030246(carbohydrate binding)
+gene_465	NA	NA	NA
+gene_466	NA	GO:0016021(integral component of membrane)	GO:0030246(carbohydrate binding)
+gene_467	GO:0007596(blood coagulation)	GO:0005576(extracellular region)	GO:0005509(calcium ion binding);GO:0004252(serine-type endopeptidase activity)
+gene_468	NA	NA	NA
+gene_469	NA	NA	NA
+gene_470	NA	NA	GO:0004252(serine-type endopeptidase activity)
+gene_471	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003723(RNA binding);GO:0003735(structural constituent of ribosome)
+gene_472	NA	NA	NA
+gene_473	NA	NA	NA
+gene_474	GO:0055114(oxidation-reduction process)	GO:0005743(mitochondrial inner membrane);GO:0070469(respirasome)	NA
+gene_475	NA	NA	GO:0005497(androgen binding);GO:0005496(steroid binding)
+gene_476	NA	GO:0005854(nascent polypeptide-associated complex)	NA
+gene_477	NA	NA	NA
+gene_478	NA	GO:0016021(integral component of membrane);GO:0031966(mitochondrial membrane);GO:0070469(respirasome)	GO:0008137(NADH dehydrogenase (ubiquinone) activity)
+gene_479	GO:0042157(lipoprotein metabolic process)	GO:0005576(extracellular region);GO:0016021(integral component of membrane)	NA
+gene_480	GO:0001944(vasculature development)	NA	GO:0008270(zinc ion binding)
+gene_481	NA	NA	NA
+gene_482	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_483	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_484	NA	NA	NA
+gene_485	GO:0006457(protein folding);GO:0046677(response to antibiotic);GO:0009409(response to cold);GO:0009408(response to heat)	GO:0005737(cytoplasm);GO:0005634(nucleus)	GO:0005524(ATP binding);GO:0051082(unfolded protein binding)
+gene_486	NA	NA	NA
+gene_487	NA	NA	NA
+gene_488	NA	NA	NA
+gene_489	NA	NA	NA
+gene_490	NA	NA	NA
+gene_491	NA	NA	NA
+gene_492	NA	NA	NA
+gene_493	GO:0006953(acute-phase response);GO:1990266(neutrophil migration);GO:0009617(response to bacterium)	GO:0034364(high-density lipoprotein particle)	NA
+gene_494	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_495	GO:0001732(formation of cytoplasmic translation initiation complex)	GO:0016282(eukaryotic 43S preinitiation complex);GO:0033290(eukaryotic 48S preinitiation complex);GO:0005852(eukaryotic translation initiation factor 3 complex)	GO:0003743(translation initiation factor activity);GO:0031369(translation initiation factor binding)
+gene_496	NA	NA	GO:0004869(cysteine-type endopeptidase inhibitor activity)
+gene_497	GO:0030168(platelet activation);GO:0051258(protein polymerization);GO:0072378(blood coagulation, fibrin clot formation)	GO:0005577(fibrinogen complex)	GO:0005102(signaling receptor binding)
+gene_498	NA	NA	GO:0000062(fatty-acyl-CoA binding)
+gene_499	NA	NA	NA
+gene_500	NA	NA	NA
+gene_501	NA	NA	NA
+gene_502	NA	NA	GO:0005524(ATP binding);GO:0004674(protein serine/threonine kinase activity)
+gene_503	NA	NA	NA
+gene_504	GO:0006955(immune response)	NA	GO:0030247(polysaccharide binding);GO:0005044(scavenger receptor activity)
+gene_505	GO:0072378(blood coagulation, fibrin clot formation);GO:0030168(platelet activation);GO:0051258(protein polymerization)	GO:0005577(fibrinogen complex)	GO:0005102(signaling receptor binding)
+gene_506	NA	NA	NA
+gene_507	NA	NA	NA
+gene_508	NA	NA	NA
+gene_509	NA	NA	NA
+gene_510	NA	NA	NA
+gene_511	GO:0007596(blood coagulation);GO:0042730(fibrinolysis);GO:0048771(tissue remodeling)	GO:0005576(extracellular region)	GO:0004252(serine-type endopeptidase activity)
+gene_512	NA	NA	GO:0030246(carbohydrate binding)
+gene_513	NA	NA	NA
+gene_514	NA	NA	NA
+gene_515	NA	NA	NA
+gene_516	NA	NA	NA
+gene_517	NA	NA	NA
+gene_518	GO:0006096(glycolytic process)	NA	GO:0004332(fructose-bisphosphate aldolase activity)
+gene_519	NA	NA	GO:0016491(oxidoreductase activity)
+gene_520	NA	NA	NA
+gene_521	NA	NA	NA
+gene_522	NA	NA	NA
+gene_523	NA	NA	NA
+gene_524	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_525	NA	NA	NA
+gene_526	NA	NA	NA
+gene_527	NA	GO:0005739(mitochondrion)	NA
+gene_528	GO:0005975(carbohydrate metabolic process)	NA	GO:0004556(alpha-amylase activity);GO:0103025(alpha-amylase activity (releasing maltohexaose));GO:0043169(cation binding)
+gene_529	NA	NA	GO:0004252(serine-type endopeptidase activity)
+gene_530	NA	NA	NA
+gene_531	NA	NA	NA
+gene_532	GO:0030154(cell differentiation);GO:0007275(multicellular organism development);GO:0001708(cell fate specification);GO:0008283(cell population proliferation);GO:0031017(exocrine pancreas development)	NA	NA
+gene_533	NA	NA	NA
+gene_534	NA	NA	NA
+gene_535	NA	NA	NA
+gene_536	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_537	NA	NA	NA
+gene_538	NA	NA	NA
+gene_539	NA	NA	GO:0008270(zinc ion binding)
+gene_540	NA	NA	NA
+gene_541	NA	NA	NA
+gene_542	GO:0042157(lipoprotein metabolic process)	GO:0005576(extracellular region);GO:0016021(integral component of membrane)	NA
+gene_543	NA	NA	GO:0003746(translation elongation factor activity)
+gene_544	NA	GO:0016021(integral component of membrane);GO:0005739(mitochondrion)	GO:0008137(NADH dehydrogenase (ubiquinone) activity)
+gene_545	NA	NA	NA
+gene_546	GO:0009058(biosynthetic process);GO:0006520(cellular amino acid metabolic process)	NA	GO:0004069(L-aspartate:2-oxoglutarate aminotransferase activity);GO:0030170(pyridoxal phosphate binding)
+gene_547	NA	NA	NA
+gene_548	NA	GO:0016021(integral component of membrane);GO:0005746(mitochondrial respirasome)	GO:0004129(cytochrome-c oxidase activity)
+gene_549	NA	NA	NA
+gene_550	NA	NA	NA
+gene_551	NA	NA	NA
+gene_552	NA	GO:0016020(membrane)	GO:0005044(scavenger receptor activity);GO:0004252(serine-type endopeptidase activity)
+gene_553	NA	GO:0005615(extracellular space)	NA
+gene_554	GO:0043009(chordate embryonic development);GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_555	NA	NA	NA
+gene_556	GO:0007596(blood coagulation);GO:0042730(fibrinolysis);GO:0048771(tissue remodeling)	GO:0005576(extracellular region)	GO:0004252(serine-type endopeptidase activity)
+gene_557	GO:0000028(ribosomal small subunit assembly);GO:0006412(translation)	GO:0022627(cytosolic small ribosomal subunit);GO:0005634(nucleus);GO:0005886(plasma membrane)	GO:0043236(laminin binding);GO:0005055(laminin receptor activity);GO:0003735(structural constituent of ribosome)
+gene_558	NA	NA	NA
+gene_559	NA	NA	NA
+gene_560	NA	NA	NA
+gene_561	NA	NA	NA
+gene_562	NA	NA	NA
+gene_563	GO:0006915(apoptotic process);GO:0043009(chordate embryonic development);GO:0048821(erythrocyte development);GO:0042593(glucose homeostasis);GO:0042541(hemoglobin biosynthetic process);GO:0045088(regulation of innate immune response);GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_564	NA	NA	NA
+gene_565	NA	NA	NA
+gene_566	NA	NA	NA
+gene_567	NA	NA	GO:0003676(nucleic acid binding)
+gene_568	GO:0043009(chordate embryonic development);GO:0030218(erythrocyte differentiation);GO:0006412(translation)	GO:0015935(small ribosomal subunit)	GO:0003723(RNA binding);GO:0003735(structural constituent of ribosome)
+gene_569	GO:0006457(protein folding);GO:0046677(response to antibiotic);GO:0009409(response to cold);GO:0009408(response to heat)	GO:0005737(cytoplasm);GO:0005634(nucleus)	GO:0005524(ATP binding);GO:0051082(unfolded protein binding)
+gene_570	NA	NA	NA
+gene_571	GO:0043009(chordate embryonic development);GO:0031016(pancreas development);GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_572	NA	NA	NA
+gene_573	NA	NA	NA
+gene_574	NA	NA	NA
+gene_575	GO:0006412(translation)	GO:0015934(large ribosomal subunit)	GO:0003735(structural constituent of ribosome)
+gene_576	GO:0006351(transcription, DNA-templated)	NA	GO:0003677(DNA binding);GO:0003899(DNA-directed 5'-3' RNA polymerase activity);GO:0008270(zinc ion binding)
+gene_577	NA	NA	NA
+gene_578	GO:0030168(platelet activation);GO:0051258(protein polymerization)	GO:0005577(fibrinogen complex)	GO:0005102(signaling receptor binding)
+gene_579	NA	NA	NA
+gene_580	NA	NA	NA
+gene_581	NA	NA	NA
+gene_582	GO:0006508(proteolysis)	GO:0005576(extracellular region)	NA
+gene_583	NA	GO:0016020(membrane)	GO:0005044(scavenger receptor activity);GO:0004252(serine-type endopeptidase activity)
+gene_584	NA	NA	GO:0004222(metalloendopeptidase activity);GO:0008270(zinc ion binding)
+gene_585	NA	NA	NA
+gene_586	NA	NA	NA
+gene_587	NA	NA	NA
+gene_588	NA	NA	NA
+gene_589	GO:0022900(electron transport chain);GO:0006099(tricarboxylic acid cycle)	GO:0005743(mitochondrial inner membrane)	GO:0050660(flavin adenine dinucleotide binding);GO:0008177(succinate dehydrogenase (ubiquinone) activity)
+gene_590	NA	NA	GO:0004252(serine-type endopeptidase activity)
+gene_591	NA	NA	NA
+gene_592	GO:0001971(negative regulation of activation of membrane attack complex)	NA	NA
+gene_593	NA	NA	GO:0005525(GTP binding);GO:0003924(GTPase activity);GO:0003746(translation elongation factor activity)
+gene_594	NA	NA	NA
+gene_595	NA	NA	NA
+gene_596	NA	GO:0016021(integral component of membrane);GO:0005751(mitochondrial respiratory chain complex IV)	NA
+gene_597	NA	NA	NA
+gene_598	NA	NA	NA
+gene_599	NA	NA	NA
+gene_600	GO:0001732(formation of cytoplasmic translation initiation complex)	GO:0016282(eukaryotic 43S preinitiation complex);GO:0033290(eukaryotic 48S preinitiation complex);GO:0005852(eukaryotic translation initiation factor 3 complex)	GO:0003743(translation initiation factor activity);GO:0031369(translation initiation factor binding)
+gene_601	GO:0046849(bone remodeling)	GO:0005576(extracellular region)	NA
+gene_602	NA	NA	NA
+gene_603	NA	NA	NA
+gene_604	NA	NA	NA
+gene_605	NA	NA	NA
+gene_606	NA	NA	NA
+gene_607	NA	NA	NA
+gene_608	NA	NA	NA
+gene_609	NA	NA	GO:0004462(lactoylglutathione lyase activity);GO:0046872(metal ion binding)
+gene_610	GO:0008016(regulation of heart contraction)	NA	GO:0005509(calcium ion binding)
+gene_611	NA	GO:0016021(integral component of membrane)	GO:0016747(transferase activity, transferring acyl groups other than amino-acyl groups)
+gene_612	NA	GO:0005747(mitochondrial respiratory chain complex I)	NA
+gene_613	GO:0006351(transcription, DNA-templated)	NA	GO:0003677(DNA binding);GO:0003899(DNA-directed 5'-3' RNA polymerase activity);GO:0008270(zinc ion binding)
+gene_614	NA	NA	NA
+gene_615	NA	GO:0005615(extracellular space)	GO:0004869(cysteine-type endopeptidase inhibitor activity)
+gene_616	NA	NA	NA
+gene_617	GO:0030154(cell differentiation);GO:0007275(multicellular organism development)	NA	NA
+gene_618	NA	NA	NA
+gene_619	GO:0007154(cell communication)	GO:0005922(connexin complex);GO:0016021(integral component of membrane)	NA
+gene_620	NA	NA	NA
+gene_621	GO:0001666(response to hypoxia)	GO:0016021(integral component of membrane)	GO:0004129(cytochrome-c oxidase activity)
+gene_622	NA	NA	NA
+gene_623	GO:0043009(chordate embryonic development);GO:0055113(epiboly involved in gastrulation with mouth forming second);GO:0000280(nuclear division)	NA	NA
+gene_624	GO:0001732(formation of cytoplasmic translation initiation complex)	GO:0016282(eukaryotic 43S preinitiation complex);GO:0033290(eukaryotic 48S preinitiation complex);GO:0071541(eukaryotic translation initiation factor 3 complex, eIF3m)	GO:0003743(translation initiation factor activity)
+gene_625	NA	NA	NA
+gene_626	NA	GO:0005840(ribosome)	NA
+gene_627	GO:0006450(regulation of translational fidelity);GO:0006412(translation)	GO:0022627(cytosolic small ribosomal subunit);GO:0015935(small ribosomal subunit)	GO:0003729(mRNA binding);GO:0003735(structural constituent of ribosome);GO:0003723(RNA binding)
+gene_628	NA	NA	NA
+gene_629	GO:0006811(ion transport);GO:0055072(iron ion homeostasis)	GO:0005615(extracellular space)	GO:0046872(metal ion binding)
+gene_630	NA	GO:0005853(eukaryotic translation elongation factor 1 complex)	GO:0003746(translation elongation factor activity)
+gene_631	NA	NA	NA
+gene_632	NA	NA	GO:0004867(serine-type endopeptidase inhibitor activity)
+gene_633	NA	NA	NA
+gene_634	NA	NA	NA
+gene_635	GO:0006122(mitochondrial electron transport, ubiquinol to cytochrome c);GO:0001525(angiogenesis)	GO:0005750(mitochondrial respiratory chain complex III)	NA
+gene_636	GO:0006807(nitrogen compound metabolic process)	NA	GO:0016811(hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides)
+gene_637	GO:0006825(copper ion transport)	GO:0005758(mitochondrial intermembrane space)	GO:0016531(copper chaperone activity)
+gene_638	NA	NA	NA
+gene_639	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_640	NA	NA	GO:0003746(translation elongation factor activity)
+gene_641	NA	NA	NA
+gene_642	GO:0043009(chordate embryonic development);GO:0030097(hemopoiesis);GO:0051726(regulation of cell cycle);GO:0042274(ribosomal small subunit biogenesis);GO:0006364(rRNA processing);GO:0006412(translation)	GO:0022627(cytosolic small ribosomal subunit);GO:0032040(small-subunit processome)	GO:0003735(structural constituent of ribosome)
+gene_643	NA	NA	NA
+gene_644	NA	NA	NA
+gene_645	NA	NA	NA
+gene_646	NA	NA	NA
+gene_647	GO:0006412(translation);GO:0043009(chordate embryonic development);GO:0030218(erythrocyte differentiation);GO:0051726(regulation of cell cycle)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_648	GO:0006457(protein folding)	GO:0005832(chaperonin-containing T-complex);GO:0005737(cytoplasm)	GO:0005524(ATP binding);GO:0051082(unfolded protein binding)
+gene_649	NA	NA	NA
+gene_650	NA	NA	NA
+gene_651	GO:0031047(gene silencing by RNA)	GO:0005737(cytoplasm);GO:0016442(RISC complex)	GO:0004521(endoribonuclease activity)
+gene_652	GO:0048568(embryonic organ development);GO:0021522(spinal cord motor neuron differentiation)	GO:0005743(mitochondrial inner membrane)	GO:0004129(cytochrome-c oxidase activity)
+gene_653	GO:0071391(cellular response to estrogen stimulus);GO:2000266(regulation of blood coagulation, intrinsic pathway)	GO:0005615(extracellular space)	GO:0008201(heparin binding);GO:0004867(serine-type endopeptidase inhibitor activity)
+gene_654	NA	NA	NA
+gene_655	GO:0006094(gluconeogenesis)	NA	GO:0005525(GTP binding);GO:0004613(phosphoenolpyruvate carboxykinase (GTP) activity)
+gene_656	NA	NA	NA
+gene_657	NA	GO:0016021(integral component of membrane)	GO:0020037(heme binding);GO:0005506(iron ion binding);GO:0016712(oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen)
+gene_658	NA	NA	GO:0004519(endonuclease activity);GO:0003676(nucleic acid binding)
+gene_659	NA	NA	NA
+gene_660	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_661	NA	GO:0016021(integral component of membrane)	GO:0004129(cytochrome-c oxidase activity)
+gene_662	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_663	NA	NA	NA
+gene_664	NA	NA	NA
+gene_665	NA	GO:0005576(extracellular region)	GO:0004252(serine-type endopeptidase activity)
+gene_666	NA	NA	NA
+gene_667	NA	NA	NA
+gene_668	NA	NA	NA
+gene_669	NA	NA	NA
+gene_670	GO:0043009(chordate embryonic development);GO:0030218(erythrocyte differentiation);GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_671	NA	NA	NA
+gene_672	NA	GO:0022625(cytosolic large ribosomal subunit)	GO:0003723(RNA binding);GO:0003735(structural constituent of ribosome)
+gene_673	GO:0000398(mRNA splicing, via spliceosome);GO:0045893(positive regulation of transcription, DNA-templated);GO:0048863(stem cell differentiation);GO:0048546(digestive tract morphogenesis);GO:0048703(embryonic viscerocranium morphogenesis);GO:0031017(exocrine pancreas development);GO:0060047(heart contraction);GO:0001947(heart looping);GO:0014032(neural crest cell development);GO:0035138(pectoral fin morphogenesis);GO:0006355(regulation of transcription, DNA-templated);GO:0042574(retinal metabolic process);GO:0042572(retinol metabolic process)	GO:0016363(nuclear matrix);GO:0016607(nuclear speck);GO:0005654(nucleoplasm);GO:0005689(U12-type spliceosomal complex);GO:0005686(U2 snRNP);GO:0071005(U2-type precatalytic spliceosome);GO:0005634(nucleus);GO:0000123(histone acetyltransferase complex)	GO:0003700(DNA-binding transcription factor activity);GO:0003723(RNA binding);GO:0008270(zinc ion binding);GO:0003677(DNA binding);GO:0004402(histone acetyltransferase activity);GO:0004745(retinol dehydrogenase activity);GO:0003713(transcription coactivator activity)
+gene_674	GO:0042157(lipoprotein metabolic process)	GO:0005576(extracellular region);GO:0016021(integral component of membrane)	NA
+gene_675	GO:0042773(ATP synthesis coupled electron transport)	GO:0005743(mitochondrial inner membrane)	GO:0008137(NADH dehydrogenase (ubiquinone) activity)
+gene_676	NA	NA	NA
+gene_677	NA	NA	NA
+gene_678	NA	NA	GO:0005096(GTPase activator activity);GO:0046872(metal ion binding)
+gene_679	GO:0006412(translation)	GO:0015934(large ribosomal subunit)	GO:0003735(structural constituent of ribosome)
+gene_680	NA	NA	NA
+gene_681	NA	NA	NA
+gene_682	GO:0006414(translational elongation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_683	GO:0035162(embryonic hemopoiesis)	GO:0044666(MLL3/4 complex);GO:0048188(Set1C/COMPASS complex)	NA
+gene_684	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_685	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_686	NA	NA	NA
+gene_687	GO:0006788(heme oxidation)	GO:0016021(integral component of membrane)	GO:0004392(heme oxygenase (decyclizing) activity);GO:0046872(metal ion binding)
+gene_688	GO:0006355(regulation of transcription, DNA-templated)	NA	NA
+gene_689	NA	NA	NA
+gene_690	NA	NA	NA
+gene_691	NA	NA	NA
+gene_692	NA	NA	NA
+gene_693	NA	NA	NA
+gene_694	GO:0006958(complement activation, classical pathway)	NA	GO:0005509(calcium ion binding);GO:0004252(serine-type endopeptidase activity)
+gene_695	NA	NA	NA
+gene_696	NA	NA	NA
+gene_697	NA	NA	NA
+gene_698	NA	NA	NA
+gene_699	NA	NA	NA
+gene_700	GO:0006955(immune response)	NA	GO:0030247(polysaccharide binding);GO:0005044(scavenger receptor activity)
+gene_701	NA	NA	NA
+gene_702	NA	NA	NA
+gene_703	GO:0022904(respiratory electron transport chain)	NA	NA
+gene_704	NA	NA	NA
+gene_705	NA	NA	NA
+gene_706	GO:0030154(cell differentiation);GO:0007275(multicellular organism development);GO:0001708(cell fate specification);GO:0008283(cell population proliferation);GO:0031017(exocrine pancreas development)	NA	NA
+gene_707	GO:0001525(angiogenesis);GO:0060027(convergent extension involved in gastrulation);GO:0030178(negative regulation of Wnt signaling pathway);GO:2000543(positive regulation of gastrulation);GO:0051302(regulation of cell division);GO:2000114(regulation of establishment of cell polarity);GO:0032880(regulation of protein localization)	GO:0005737(cytoplasm)	NA
+gene_708	NA	NA	NA
+gene_709	NA	NA	NA
+gene_710	NA	NA	NA
+gene_711	NA	NA	NA
+gene_712	NA	NA	NA
+gene_713	NA	NA	NA
+gene_714	NA	NA	NA
+gene_715	NA	NA	GO:0005509(calcium ion binding)
+gene_716	GO:0007596(blood coagulation)	GO:0005576(extracellular region)	GO:0005509(calcium ion binding);GO:0004252(serine-type endopeptidase activity)
+gene_717	NA	GO:0005615(extracellular space)	GO:0004866(endopeptidase inhibitor activity)
+gene_718	NA	NA	NA
+gene_719	GO:0006120(mitochondrial electron transport, NADH to ubiquinone)	GO:0016021(integral component of membrane);GO:0031966(mitochondrial membrane);GO:0070469(respirasome)	GO:0008137(NADH dehydrogenase (ubiquinone) activity)
+gene_720	GO:0006457(protein folding)	NA	GO:0003755(peptidyl-prolyl cis-trans isomerase activity)
+gene_721	NA	NA	NA
+gene_722	NA	NA	NA
+gene_723	GO:0015986(ATP synthesis coupled proton transport)	GO:0000276(mitochondrial proton-transporting ATP synthase complex, coupling factor F(o))	GO:0015078(proton transmembrane transporter activity)
+gene_724	NA	NA	NA
+gene_725	NA	NA	GO:0016491(oxidoreductase activity)
+gene_726	NA	GO:0005615(extracellular space)	NA
+gene_727	NA	NA	NA
+gene_728	NA	NA	NA
+gene_729	NA	NA	NA
+gene_730	NA	NA	NA
+gene_731	GO:0071391(cellular response to estrogen stimulus)	NA	GO:0003723(RNA binding)
+gene_732	GO:0006081(cellular aldehyde metabolic process)	GO:0016021(integral component of membrane)	GO:0016620(oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor)
+gene_733	NA	NA	NA
+gene_734	NA	NA	GO:0008121(ubiquinol-cytochrome-c reductase activity)
+gene_735	NA	NA	NA
+gene_736	NA	NA	NA
+gene_737	NA	NA	GO:0008171(O-methyltransferase activity)
+gene_738	NA	NA	NA
+gene_739	GO:0001568(blood vessel development);GO:0050900(leukocyte migration);GO:0006457(protein folding)	NA	GO:0005524(ATP binding);GO:0051082(unfolded protein binding)
+gene_740	NA	NA	NA
+gene_741	GO:0008203(cholesterol metabolic process);GO:0034375(high-density lipoprotein particle remodeling);GO:0043691(reverse cholesterol transport);GO:0034197(triglyceride transport);GO:0034372(very-low-density lipoprotein particle remodeling)	GO:0034364(high-density lipoprotein particle)	GO:0120020(cholesterol transfer activity);GO:0008289(lipid binding)
+gene_742	NA	NA	NA
+gene_743	GO:0032964(collagen biosynthetic process);GO:0048264(determination of ventral identity);GO:0033333(fin development);GO:0001503(ossification);GO:0001501(skeletal system development)	NA	GO:0005509(calcium ion binding);GO:0004222(metalloendopeptidase activity);GO:0008270(zinc ion binding)
+gene_744	NA	NA	NA
+gene_745	NA	NA	NA
+gene_746	GO:0007420(brain development);GO:0043009(chordate embryonic development);GO:0030218(erythrocyte differentiation);GO:0051726(regulation of cell cycle);GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_747	GO:0015986(ATP synthesis coupled proton transport)	GO:0045261(proton-transporting ATP synthase complex, catalytic core F(1))	GO:0005524(ATP binding);GO:0046933(proton-transporting ATP synthase activity, rotational mechanism)
+gene_748	NA	NA	NA
+gene_749	NA	NA	NA
+gene_750	GO:0006412(translation)	GO:0005840(ribosome)	GO:0019843(rRNA binding);GO:0003735(structural constituent of ribosome)
+gene_751	NA	NA	NA
+gene_752	NA	NA	NA
+gene_753	NA	NA	NA
+gene_754	NA	NA	NA
+gene_755	NA	NA	GO:0046872(metal ion binding)
+gene_756	GO:0006508(proteolysis)	GO:0005576(extracellular region)	NA
+gene_757	GO:0045454(cell redox homeostasis)	GO:0005623(cell)	GO:0051920(peroxiredoxin activity)
+gene_758	NA	GO:0016021(integral component of membrane);GO:0005743(mitochondrial inner membrane)	GO:0008137(NADH dehydrogenase (ubiquinone) activity)
+gene_759	GO:0006953(acute-phase response);GO:0007596(blood coagulation)	GO:0005576(extracellular region)	GO:0005509(calcium ion binding);GO:0004252(serine-type endopeptidase activity)
+gene_760	NA	NA	NA
+gene_761	NA	NA	NA
+gene_762	NA	NA	NA
+gene_763	GO:0015986(ATP synthesis coupled proton transport)	GO:0016021(integral component of membrane);GO:0000276(mitochondrial proton-transporting ATP synthase complex, coupling factor F(o));GO:0045263(proton-transporting ATP synthase complex, coupling factor F(o))	GO:0008289(lipid binding);GO:0046933(proton-transporting ATP synthase activity, rotational mechanism);GO:0015078(proton transmembrane transporter activity)
+gene_764	NA	NA	NA
+gene_765	GO:1901137(carbohydrate derivative biosynthetic process);GO:0002063(chondrocyte development);GO:0048703(embryonic viscerocranium morphogenesis);GO:0030318(melanocyte differentiation);GO:0007528(neuromuscular junction development);GO:0007519(skeletal muscle tissue development)	NA	GO:0097367(carbohydrate derivative binding);GO:0004360(glutamine-fructose-6-phosphate transaminase (isomerizing) activity)
+gene_766	GO:0009058(biosynthetic process)	NA	GO:0003824(catalytic activity);GO:0030170(pyridoxal phosphate binding)
+gene_767	NA	NA	NA
+gene_768	NA	NA	NA
+gene_769	NA	NA	NA
+gene_770	NA	NA	NA
+gene_771	GO:0006412(translation)	GO:0005840(ribosome)	GO:0019843(rRNA binding);GO:0003735(structural constituent of ribosome)
+gene_772	NA	NA	NA
+gene_773	NA	NA	NA
+gene_774	NA	NA	NA
+gene_775	GO:0006334(nucleosome assembly);GO:0001878(response to yeast)	GO:0005634(nucleus)	NA
+gene_776	NA	NA	NA
+gene_777	NA	NA	GO:0005525(GTP binding)
+gene_778	NA	NA	NA
+gene_779	NA	NA	NA
+gene_780	NA	GO:0016021(integral component of membrane)	NA
+gene_781	NA	NA	NA
+gene_782	NA	NA	NA
+gene_783	NA	NA	NA
+gene_784	NA	NA	NA
+gene_785	NA	NA	NA
+gene_786	NA	NA	NA
+gene_787	NA	NA	NA
+gene_788	NA	GO:0016021(integral component of membrane)	GO:0004896(cytokine receptor activity)
+gene_789	NA	NA	NA
+gene_790	NA	NA	NA
+gene_791	NA	NA	NA
+gene_792	NA	NA	NA
+gene_793	NA	NA	NA
+gene_794	NA	NA	NA
+gene_795	NA	NA	NA
+gene_796	NA	NA	NA
+gene_797	NA	NA	NA
+gene_798	NA	NA	NA
+gene_799	GO:0006811(ion transport);GO:0055072(iron ion homeostasis)	GO:0005615(extracellular space)	GO:0046872(metal ion binding)
+gene_800	NA	NA	NA
+gene_801	NA	NA	GO:0004252(serine-type endopeptidase activity)
+gene_802	NA	NA	NA
+gene_803	NA	NA	GO:0030246(carbohydrate binding)
+gene_804	NA	NA	NA
+gene_805	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_806	NA	NA	NA
+gene_807	NA	NA	NA
+gene_808	NA	NA	NA
+gene_809	NA	NA	GO:0008170(N-methyltransferase activity)
+gene_810	GO:0015746(citrate transport)	GO:0016021(integral component of membrane)	GO:0022857(transmembrane transporter activity)
+gene_811	GO:0006955(immune response)	GO:0005576(extracellular region)	GO:0008009(chemokine activity)
+gene_812	GO:0006605(protein targeting)	GO:0016021(integral component of membrane)	GO:0015450(P-P-bond-hydrolysis-driven protein transmembrane transporter activity)
+gene_813	GO:0032259(methylation);GO:0006364(rRNA processing)	NA	GO:0003723(RNA binding);GO:0008757(S-adenosylmethionine-dependent methyltransferase activity)
+gene_814	NA	NA	NA
+gene_815	NA	NA	NA
+gene_816	NA	NA	NA
+gene_817	NA	NA	NA
+gene_818	NA	NA	NA
+gene_819	NA	NA	NA
+gene_820	GO:0007596(blood coagulation);GO:0042730(fibrinolysis);GO:0048771(tissue remodeling)	GO:0005576(extracellular region)	GO:0004252(serine-type endopeptidase activity)
+gene_821	NA	NA	NA
+gene_822	NA	NA	NA
+gene_823	NA	NA	NA
+gene_824	NA	NA	NA
+gene_825	NA	NA	NA
+gene_826	NA	NA	NA
+gene_827	NA	NA	NA
+gene_828	NA	NA	NA
+gene_829	NA	NA	GO:0016491(oxidoreductase activity)
+gene_830	NA	NA	GO:0004129(cytochrome-c oxidase activity)
+gene_831	GO:0007596(blood coagulation)	GO:0005576(extracellular region)	GO:0005509(calcium ion binding);GO:0004252(serine-type endopeptidase activity)
+gene_832	NA	NA	NA
+gene_833	NA	NA	NA
+gene_834	NA	NA	NA
+gene_835	GO:0006487(protein N-linked glycosylation)	GO:0016021(integral component of membrane);GO:0034998(oligosaccharyltransferase I complex)	NA
+gene_836	NA	NA	NA
+gene_837	NA	NA	NA
+gene_838	NA	NA	NA
+gene_839	NA	NA	NA
+gene_840	NA	NA	GO:0004222(metalloendopeptidase activity);GO:0008270(zinc ion binding)
+gene_841	GO:0000028(ribosomal small subunit assembly)	GO:0022627(cytosolic small ribosomal subunit)	GO:0003735(structural constituent of ribosome)
+gene_842	GO:0070125(mitochondrial translational elongation)	GO:0005739(mitochondrion)	GO:0005525(GTP binding);GO:0003924(GTPase activity);GO:0003746(translation elongation factor activity)
+gene_843	NA	NA	NA
+gene_844	GO:0015986(ATP synthesis coupled proton transport)	GO:0000276(mitochondrial proton-transporting ATP synthase complex, coupling factor F(o))	GO:0015078(proton transmembrane transporter activity)
+gene_845	NA	NA	NA
+gene_846	NA	NA	GO:0004181(metallocarboxypeptidase activity);GO:0008270(zinc ion binding)
+gene_847	NA	NA	NA
+gene_848	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_849	GO:0006954(inflammatory response);GO:0050994(regulation of lipid catabolic process)	NA	GO:0005102(signaling receptor binding)
+gene_850	NA	NA	NA
+gene_851	NA	NA	NA
+gene_852	NA	NA	NA
+gene_853	NA	NA	NA
+gene_854	NA	NA	NA
+gene_855	NA	NA	NA
+gene_856	NA	NA	NA
+gene_857	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_858	NA	NA	NA
+gene_859	NA	NA	NA
+gene_860	NA	NA	NA
+gene_861	NA	NA	NA
+gene_862	NA	NA	GO:0016491(oxidoreductase activity)
+gene_863	GO:0006120(mitochondrial electron transport, NADH to ubiquinone)	GO:0016021(integral component of membrane);GO:0005747(mitochondrial respiratory chain complex I)	GO:0008137(NADH dehydrogenase (ubiquinone) activity)
+gene_864	GO:0035435(phosphate ion transmembrane transport)	GO:0031305(integral component of mitochondrial inner membrane)	GO:0005315(inorganic phosphate transmembrane transporter activity)
+gene_865	NA	NA	NA
+gene_866	NA	NA	NA
+gene_867	NA	NA	NA
+gene_868	NA	NA	NA
+gene_869	NA	NA	NA
+gene_870	NA	NA	NA
+gene_871	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_872	NA	NA	NA
+gene_873	NA	NA	GO:0003824(catalytic activity)
+gene_874	NA	NA	NA
+gene_875	NA	NA	NA
+gene_876	NA	NA	NA
+gene_877	GO:0006412(translation)	GO:0015934(large ribosomal subunit)	GO:0003723(RNA binding);GO:0003735(structural constituent of ribosome)
+gene_878	NA	NA	NA
+gene_879	GO:0006412(translation);GO:0002181(cytoplasmic translation)	GO:0005840(ribosome);GO:0022627(cytosolic small ribosomal subunit);GO:0042788(polysomal ribosome)	GO:0003735(structural constituent of ribosome);GO:0008270(zinc ion binding);GO:0016787(hydrolase activity);GO:0003723(RNA binding)
+gene_880	GO:0006953(acute-phase response);GO:0007596(blood coagulation)	GO:0005576(extracellular region)	GO:0005509(calcium ion binding);GO:0004252(serine-type endopeptidase activity)
+gene_881	NA	NA	NA
+gene_882	GO:0019941(modification-dependent protein catabolic process);GO:0016567(protein ubiquitination)	GO:0005737(cytoplasm);GO:0005634(nucleus);GO:0005840(ribosome)	GO:0031386(protein tag);GO:0031625(ubiquitin protein ligase binding)
+gene_883	NA	NA	NA
+gene_884	NA	NA	NA
+gene_885	GO:0055085(transmembrane transport)	GO:0016021(integral component of membrane)	NA
+gene_886	GO:0043009(chordate embryonic development);GO:0006414(translational elongation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_887	GO:0006412(translation)	GO:0005840(ribosome)	GO:0046872(metal ion binding);GO:0003735(structural constituent of ribosome)
+gene_888	NA	NA	NA
+gene_889	GO:0006120(mitochondrial electron transport, NADH to ubiquinone)	GO:0016021(integral component of membrane);GO:0005743(mitochondrial inner membrane);GO:0070469(respirasome)	GO:0008137(NADH dehydrogenase (ubiquinone) activity)
+gene_890	NA	NA	GO:0005504(fatty acid binding)
+gene_891	NA	GO:0016021(integral component of membrane)	GO:0004129(cytochrome-c oxidase activity)
+gene_892	NA	NA	GO:0016301(kinase activity)
+gene_893	NA	NA	NA
+gene_894	GO:0006406(mRNA export from nucleus);GO:0043248(proteasome assembly)	GO:0008541(proteasome regulatory particle, lid subcomplex)	NA
+gene_895	NA	NA	NA
+gene_896	NA	NA	NA
+gene_897	NA	NA	NA
+gene_898	NA	NA	NA
+gene_899	NA	NA	NA
+gene_900	NA	NA	NA
+gene_901	NA	NA	NA
+gene_902	GO:0032259(methylation);GO:0006364(rRNA processing)	NA	GO:0003723(RNA binding);GO:0008757(S-adenosylmethionine-dependent methyltransferase activity)
+gene_903	NA	NA	NA
+gene_904	GO:0008610(lipid biosynthetic process)	GO:0016021(integral component of membrane)	GO:0005506(iron ion binding);GO:0016491(oxidoreductase activity)
+gene_905	NA	NA	NA
+gene_906	NA	NA	NA
+gene_907	NA	GO:0016021(integral component of membrane)	GO:0004174(electron-transferring-flavoprotein dehydrogenase activity)
+gene_908	NA	NA	NA
+gene_909	NA	NA	NA
+gene_910	NA	NA	NA
+gene_911	NA	NA	NA
+gene_912	GO:0002191(cap-dependent translational initiation);GO:0001732(formation of cytoplasmic translation initiation complex)	GO:0016282(eukaryotic 43S preinitiation complex);GO:0033290(eukaryotic 48S preinitiation complex);GO:0005852(eukaryotic translation initiation factor 3 complex)	GO:0098808(mRNA cap binding);GO:0003743(translation initiation factor activity)
+gene_913	NA	GO:0016021(integral component of membrane)	NA
+gene_914	NA	NA	NA
+gene_915	NA	NA	NA
+gene_916	NA	NA	NA
+gene_917	NA	NA	GO:0016620(oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor)
+gene_918	NA	NA	NA
+gene_919	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_920	NA	NA	NA
+gene_921	GO:0006412(translation)	GO:0022625(cytosolic large ribosomal subunit)	GO:0003723(RNA binding);GO:0003735(structural constituent of ribosome)
+gene_922	NA	NA	NA
+gene_923	NA	NA	NA
+gene_924	NA	NA	NA
+gene_925	GO:0043009(chordate embryonic development);GO:0055113(epiboly involved in gastrulation with mouth forming second);GO:0000280(nuclear division)	NA	NA
+gene_926	NA	NA	NA
+gene_927	NA	NA	NA
+gene_928	NA	NA	NA
+gene_929	NA	NA	GO:0020037(heme binding);GO:0005506(iron ion binding);GO:0016712(oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen)
+gene_930	GO:0055114(oxidation-reduction process)	GO:0005743(mitochondrial inner membrane);GO:0070469(respirasome)	NA
+gene_931	NA	NA	GO:0003723(RNA binding)
+gene_932	NA	NA	NA
+gene_933	NA	NA	NA
+gene_934	NA	NA	NA
+gene_935	NA	GO:0005829(cytosol)	GO:0051287(NAD binding);GO:0016616(oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor);GO:0008465(glycerate dehydrogenase activity);GO:0030267(glyoxylate reductase (NADP) activity);GO:0016618(hydroxypyruvate reductase activity)
+gene_936	NA	NA	NA
+gene_937	NA	GO:0016021(integral component of membrane)	NA
+gene_938	NA	NA	GO:0004252(serine-type endopeptidase activity)
+gene_939	NA	NA	NA
+gene_940	NA	NA	NA
+gene_941	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_942	GO:0006412(translation);GO:0030218(erythrocyte differentiation);GO:0030490(maturation of SSU-rRNA);GO:0000462(maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA));GO:0000122(negative regulation of transcription by RNA polymerase II);GO:0000028(ribosomal small subunit assembly)	GO:0005840(ribosome);GO:0022627(cytosolic small ribosomal subunit);GO:0005730(nucleolus);GO:0014069(postsynaptic density)	GO:0003735(structural constituent of ribosome);GO:0048027(mRNA 5'-UTR binding);GO:0003723(RNA binding);GO:0070181(small ribosomal subunit rRNA binding);GO:0045182(translation regulator activity)
+gene_943	GO:0006412(translation)	GO:0022627(cytosolic small ribosomal subunit);GO:0015935(small ribosomal subunit)	GO:0003735(structural constituent of ribosome)
+gene_944	NA	NA	NA
+gene_945	NA	NA	NA
+gene_946	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_947	NA	NA	NA
+gene_948	GO:0007596(blood coagulation);GO:0042730(fibrinolysis);GO:0048771(tissue remodeling)	GO:0005576(extracellular region)	GO:0004252(serine-type endopeptidase activity)
+gene_949	NA	NA	NA
+gene_950	NA	NA	NA
+gene_951	NA	NA	GO:0005524(ATP binding);GO:0004386(helicase activity);GO:0003676(nucleic acid binding)
+gene_952	NA	NA	NA
+gene_953	NA	NA	NA
+gene_954	NA	NA	NA
+gene_955	NA	NA	NA
+gene_956	NA	NA	NA
+gene_957	NA	NA	NA
+gene_958	NA	NA	NA
+gene_959	NA	GO:0016021(integral component of membrane)	NA
+gene_960	NA	NA	NA
+gene_961	NA	NA	NA
+gene_962	NA	NA	NA
+gene_963	NA	NA	NA
+gene_964	NA	NA	NA
+gene_965	NA	NA	NA
+gene_966	NA	NA	NA
+gene_967	NA	NA	NA
+gene_968	NA	GO:0016021(integral component of membrane)	NA
+gene_969	GO:0006412(translation)	GO:0005840(ribosome)	GO:0003723(RNA binding);GO:0003735(structural constituent of ribosome)
+gene_970	NA	NA	NA
+gene_971	NA	NA	NA
+gene_972	GO:1904985(negative regulation of quinolinate biosynthetic process)	GO:0005829(cytosol)	GO:0001760(aminocarboxymuconate-semialdehyde decarboxylase activity);GO:0016787(hydrolase activity)
+gene_973	NA	NA	GO:0005524(ATP binding)
+gene_974	NA	NA	NA
+gene_975	NA	NA	GO:0003824(catalytic activity)
+gene_976	GO:0006879(cellular iron ion homeostasis);GO:0006826(iron ion transport)	GO:0005623(cell);GO:0005737(cytoplasm);GO:0005615(extracellular space);GO:0005634(nucleus)	GO:0005507(copper ion binding);GO:0004322(ferroxidase activity)
+gene_977	NA	NA	NA
+gene_978	NA	NA	NA
+gene_979	NA	NA	GO:0004252(serine-type endopeptidase activity)
+gene_980	NA	NA	NA
+gene_981	GO:0031016(pancreas development);GO:0051726(regulation of cell cycle);GO:0006412(translation)	GO:0005840(ribosome)	GO:0003735(structural constituent of ribosome)
+gene_982	GO:0046849(bone remodeling)	GO:0005576(extracellular region)	NA
+gene_983	NA	NA	NA
+gene_984	GO:0006886(intracellular protein transport)	GO:0005634(nucleus)	GO:0008536(Ran GTPase binding)
+gene_985	NA	NA	NA
+gene_986	NA	NA	NA
+gene_987	NA	GO:0005615(extracellular space)	NA
+gene_988	NA	NA	NA
+gene_989	NA	NA	NA
+gene_990	NA	NA	NA
+gene_991	NA	GO:0016021(integral component of membrane);GO:0005743(mitochondrial inner membrane)	GO:0022857(transmembrane transporter activity)
+gene_992	NA	NA	NA
+gene_993	NA	NA	NA
+gene_994	NA	GO:0005746(mitochondrial respirasome)	GO:0004129(cytochrome-c oxidase activity)
+gene_995	NA	NA	NA
+gene_996	NA	NA	GO:0005525(GTP binding);GO:0003924(GTPase activity)
+gene_997	NA	NA	GO:0032052(bile acid binding);GO:0008289(lipid binding)
+gene_998	NA	NA	NA
+gene_999	NA	NA	NA
+gene_1000	NA	NA	NA

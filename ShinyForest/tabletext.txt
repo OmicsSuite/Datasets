@@ -1,0 +1,11 @@
+	Deaths	Deaths	
+Study	(steroid)	(placebo)	OR
+Auckland	36	60	0.58
+Block	1	5	0.16
+Doran	4	11	0.25
+Gamsu	14	20	0.70
+Morrison	3	7	0.35
+Papageorgiou	1	7	0.14
+Tauesch	8	10	1.02
+NA	NA	NA	NA
+Summary	NA	NA	0.53

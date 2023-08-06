@@ -1,0 +1,1001 @@
+id	kegg_pathway
+gene_1	ko04810(Regulation of actin cytoskeleton);ko04510(Focal adhesion);ko04151(PI3K-Akt signaling pathway);ko04512(ECM-receptor interaction)
+gene_2	ko04610(Complement and coagulation cascades)
+gene_3	ko04810(Regulation of actin cytoskeleton);ko04510(Focal adhesion);ko04151(PI3K-Akt signaling pathway);ko04512(ECM-receptor interaction)
+gene_4	ko04810(Regulation of actin cytoskeleton);ko04510(Focal adhesion);ko04151(PI3K-Akt signaling pathway);ko04512(ECM-receptor interaction)
+gene_5	ko04610(Complement and coagulation cascades)
+gene_6	ko04142(Lysosome)
+gene_7	NA
+gene_8	ko04810(Regulation of actin cytoskeleton);ko04510(Focal adhesion);ko04151(PI3K-Akt signaling pathway);ko04512(ECM-receptor interaction)
+gene_9	ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption)
+gene_10	NA
+gene_11	ko04610(Complement and coagulation cascades)
+gene_12	NA
+gene_13	NA
+gene_14	NA
+gene_15	ko04216(Ferroptosis);ko04066(HIF-1 signaling pathway);ko04978(Mineral absorption)
+gene_16	ko03010(Ribosome)
+gene_17	NA
+gene_18	ko00190(Oxidative phosphorylation);ko04723(Retrograde endocannabinoid signaling)
+gene_19	NA
+gene_20	ko03060(Protein export)
+gene_21	ko00480(Glutathione metabolism);ko00982(Drug metabolism - cytochrome P450);ko00980(Metabolism of xenobiotics by cytochrome P450)
+gene_22	ko00520(Amino sugar and nucleotide sugar metabolism);ko00052(Galactose metabolism);ko00040(Pentose and glucuronate interconversions);ko00500(Starch and sucrose metabolism)
+gene_23	NA
+gene_24	ko04810(Regulation of actin cytoskeleton);ko04510(Focal adhesion);ko04151(PI3K-Akt signaling pathway);ko04512(ECM-receptor interaction)
+gene_25	ko04810(Regulation of actin cytoskeleton);ko04510(Focal adhesion);ko04151(PI3K-Akt signaling pathway);ko04512(ECM-receptor interaction)
+gene_26	ko03010(Ribosome)
+gene_27	NA
+gene_28	ko04550(Signaling pathways regulating pluripotency of stem cells);ko04350(TGF-beta signaling pathway)
+gene_29	ko03320(PPAR signaling pathway)
+gene_30	NA
+gene_31	ko03320(PPAR signaling pathway)
+gene_32	NA
+gene_33	ko03010(Ribosome)
+gene_34	NA
+gene_35	ko04810(Regulation of actin cytoskeleton);ko04510(Focal adhesion);ko04151(PI3K-Akt signaling pathway);ko04512(ECM-receptor interaction)
+gene_36	NA
+gene_37	ko04145(Phagosome);ko04610(Complement and coagulation cascades)
+gene_38	ko00480(Glutathione metabolism);ko00982(Drug metabolism - cytochrome P450);ko00980(Metabolism of xenobiotics by cytochrome P450)
+gene_39	ko03320(PPAR signaling pathway)
+gene_40	ko03320(PPAR signaling pathway)
+gene_41	ko03320(PPAR signaling pathway)
+gene_42	ko00190(Oxidative phosphorylation)
+gene_43	NA
+gene_44	NA
+gene_45	ko03320(PPAR signaling pathway)
+gene_46	NA
+gene_47	ko04141(Protein processing in endoplasmic reticulum)
+gene_48	NA
+gene_49	ko03320(PPAR signaling pathway)
+gene_50	ko03320(PPAR signaling pathway)
+gene_51	NA
+gene_52	NA
+gene_53	ko04610(Complement and coagulation cascades)
+gene_54	NA
+gene_55	ko03320(PPAR signaling pathway)
+gene_56	ko04016(MAPK signaling pathway - plant);ko00230(Purine metabolism);ko00240(Pyrimidine metabolism)
+gene_57	NA
+gene_58	ko04016(MAPK signaling pathway - plant);ko00230(Purine metabolism);ko00240(Pyrimidine metabolism)
+gene_59	NA
+gene_60	ko04016(MAPK signaling pathway - plant);ko00230(Purine metabolism);ko00240(Pyrimidine metabolism)
+gene_61	ko00190(Oxidative phosphorylation);ko04723(Retrograde endocannabinoid signaling)
+gene_62	NA
+gene_63	ko04016(MAPK signaling pathway - plant);ko00230(Purine metabolism);ko00240(Pyrimidine metabolism)
+gene_64	NA
+gene_65	NA
+gene_66	ko04016(MAPK signaling pathway - plant);ko00230(Purine metabolism);ko00240(Pyrimidine metabolism)
+gene_67	ko00190(Oxidative phosphorylation)
+gene_68	NA
+gene_69	ko04610(Complement and coagulation cascades)
+gene_70	NA
+gene_71	ko04610(Complement and coagulation cascades)
+gene_72	ko03010(Ribosome)
+gene_73	NA
+gene_74	ko04610(Complement and coagulation cascades)
+gene_75	NA
+gene_76	ko04610(Complement and coagulation cascades)
+gene_77	NA
+gene_78	ko03010(Ribosome)
+gene_79	ko03010(Ribosome)
+gene_80	ko04610(Complement and coagulation cascades)
+gene_81	NA
+gene_82	ko04610(Complement and coagulation cascades)
+gene_83	NA
+gene_84	ko04610(Complement and coagulation cascades)
+gene_85	NA
+gene_86	NA
+gene_87	ko04610(Complement and coagulation cascades)
+gene_88	ko00564(Glycerophospholipid metabolism);ko00440(Phosphonate and phosphinate metabolism)
+gene_89	ko04066(HIF-1 signaling pathway);ko03018(RNA degradation);ko00010(Glycolysis / Gluconeogenesis);ko00680(Methane metabolism);ko01230(Biosynthesis of amino acids);ko01200(Carbon metabolism)
+gene_90	NA
+gene_91	NA
+gene_92	ko04610(Complement and coagulation cascades)
+gene_93	ko00330(Arginine and proline metabolism);ko00340(Histidine metabolism);ko00310(Lysine degradation);ko00380(Tryptophan metabolism);ko00280(Valine, leucine and isoleucine degradation);ko00053(Ascorbate and aldarate metabolism);ko00010(Glycolysis / Gluconeogenesis);ko00620(Pyruvate metabolism);ko00071(Fatty acid degradation);ko00561(Glycerolipid metabolism);ko00410(beta-Alanine metabolism);ko00981(Insect hormone biosynthesis);ko00903(Limonene and pinene degradation);ko00625(Chloroalkane and chloroalkene degradation)
+gene_94	NA
+gene_95	ko04141(Protein processing in endoplasmic reticulum)
+gene_96	NA
+gene_97	NA
+gene_98	ko03040(Spliceosome);ko03013(RNA transport);ko03015(mRNA surveillance pathway)
+gene_99	NA
+gene_100	ko03010(Ribosome)
+gene_101	NA
+gene_102	ko00260(Glycine, serine and threonine metabolism);ko00630(Glyoxylate and dicarboxylate metabolism);ko00680(Methane metabolism);ko00670(One carbon pool by folate);ko00460(Cyanoamino acid metabolism);ko01230(Biosynthesis of amino acids);ko01200(Carbon metabolism)
+gene_103	ko00260(Glycine, serine and threonine metabolism);ko00630(Glyoxylate and dicarboxylate metabolism);ko00680(Methane metabolism);ko00670(One carbon pool by folate);ko00460(Cyanoamino acid metabolism);ko01230(Biosynthesis of amino acids);ko01200(Carbon metabolism)
+gene_104	NA
+gene_105	ko00260(Glycine, serine and threonine metabolism);ko00630(Glyoxylate and dicarboxylate metabolism);ko00680(Methane metabolism);ko00670(One carbon pool by folate);ko00460(Cyanoamino acid metabolism);ko01230(Biosynthesis of amino acids);ko01200(Carbon metabolism)
+gene_106	NA
+gene_107	ko04216(Ferroptosis);ko04217(Necroptosis);ko04978(Mineral absorption)
+gene_108	ko04114(Oocyte meiosis);ko04371(Apelin signaling pathway);ko04020(Calcium signaling pathway);ko04016(MAPK signaling pathway - plant);ko04070(Phosphatidylinositol signaling system);ko04015(Rap1 signaling pathway);ko04014(Ras signaling pathway);ko04024(cAMP signaling pathway);ko04022(cGMP - PKG signaling pathway);ko04261(Adrenergic signaling in cardiomyocytes);ko04270(Vascular smooth muscle contraction);ko04971(Gastric acid secretion);ko04970(Salivary secretion);ko04925(Aldosterone synthesis and secretion);ko04915(Estrogen signaling pathway);ko04922(Glucagon signaling pathway);ko04912(GnRH signaling pathway);ko04910(Insulin signaling pathway);ko04916(Melanogenesis);ko04921(Oxytocin signaling pathway);ko04924(Renin secretion);ko04713(Circadian entrainment);ko04626(Plant-pathogen interaction);ko04728(Dopaminergic synapse);ko04720(Long-term potentiation);ko04722(Neurotrophin signaling pathway);ko04750(Inflammatory mediator regulation of TRP channels);ko04740(Olfactory transduction);ko04744(Phototransduction);ko04745(Phototransduction - fly)
+gene_109	NA
+gene_110	NA
+gene_111	NA
+gene_112	ko00240(Pyrimidine metabolism);ko00983(Drug metabolism - other enzymes)
+gene_113	ko00260(Glycine, serine and threonine metabolism);ko00630(Glyoxylate and dicarboxylate metabolism);ko00680(Methane metabolism);ko00670(One carbon pool by folate);ko00460(Cyanoamino acid metabolism);ko01230(Biosynthesis of amino acids);ko01200(Carbon metabolism)
+gene_114	NA
+gene_115	NA
+gene_116	ko03010(Ribosome)
+gene_117	NA
+gene_118	ko00260(Glycine, serine and threonine metabolism);ko00630(Glyoxylate and dicarboxylate metabolism);ko00680(Methane metabolism);ko00670(One carbon pool by folate);ko00460(Cyanoamino acid metabolism);ko01230(Biosynthesis of amino acids);ko01200(Carbon metabolism)
+gene_119	NA
+gene_120	ko00051(Fructose and mannose metabolism);ko00010(Glycolysis / Gluconeogenesis);ko00030(Pentose phosphate pathway);ko00710(Carbon fixation in photosynthetic organisms);ko00680(Methane metabolism);ko01230(Biosynthesis of amino acids);ko01200(Carbon metabolism)
+gene_121	NA
+gene_122	ko04975(Fat digestion and absorption);ko04977(Vitamin digestion and absorption)
+gene_123	ko03010(Ribosome)
+gene_124	NA
+gene_125	NA
+gene_126	NA
+gene_127	NA
+gene_128	NA
+gene_129	ko04976(Bile secretion)
+gene_130	NA
+gene_131	NA
+gene_132	ko04141(Protein processing in endoplasmic reticulum);ko00510(N-Glycan biosynthesis);ko00513(Various types of N-glycan biosynthesis)
+gene_133	NA
+gene_134	NA
+gene_135	ko04217(Necroptosis);ko04151(PI3K-Akt signaling pathway);ko04141(Protein processing in endoplasmic reticulum);ko04915(Estrogen signaling pathway);ko04914(Progesterone-mediated oocyte maturation);ko04626(Plant-pathogen interaction);ko04612(Antigen processing and presentation);ko04657(IL-17 signaling pathway);ko04621(NOD-like receptor signaling pathway);ko04659(Th17 cell differentiation)
+gene_136	NA
+gene_137	NA
+gene_138	ko04610(Complement and coagulation cascades)
+gene_139	ko04610(Complement and coagulation cascades)
+gene_140	NA
+gene_141	ko04977(Vitamin digestion and absorption)
+gene_142	NA
+gene_143	NA
+gene_144	ko04610(Complement and coagulation cascades)
+gene_145	NA
+gene_146	ko00260(Glycine, serine and threonine metabolism);ko00630(Glyoxylate and dicarboxylate metabolism);ko00680(Methane metabolism);ko00670(One carbon pool by folate);ko00460(Cyanoamino acid metabolism);ko01230(Biosynthesis of amino acids);ko01200(Carbon metabolism)
+gene_147	NA
+gene_148	NA
+gene_149	ko00190(Oxidative phosphorylation);ko04260(Cardiac muscle contraction)
+gene_150	NA
+gene_151	ko00190(Oxidative phosphorylation);ko04260(Cardiac muscle contraction)
+gene_152	NA
+gene_153	NA
+gene_154	ko00230(Purine metabolism)
+gene_155	NA
+gene_156	ko04080(Neuroactive ligand-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_157	NA
+gene_158	NA
+gene_159	NA
+gene_160	ko04064(NF-kappa B signaling pathway);ko04060(Cytokine-cytokine receptor interaction);ko04062(Chemokine signaling pathway);ko04623(Cytosolic DNA-sensing pathway);ko04620(Toll-like receptor signaling pathway)
+gene_161	ko03018(RNA degradation);ko03040(Spliceosome)
+gene_162	NA
+gene_163	ko04080(Neuroactive ligand-receptor interaction);ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption)
+gene_164	NA
+gene_165	ko00480(Glutathione metabolism)
+gene_166	ko04610(Complement and coagulation cascades)
+gene_167	NA
+gene_168	ko00190(Oxidative phosphorylation);ko04260(Cardiac muscle contraction)
+gene_169	ko04810(Regulation of actin cytoskeleton);ko04080(Neuroactive ligand-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_170	ko04970(Salivary secretion)
+gene_171	NA
+gene_172	NA
+gene_173	ko00190(Oxidative phosphorylation)
+gene_174	NA
+gene_175	ko04810(Regulation of actin cytoskeleton);ko04080(Neuroactive ligand-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_176	ko04610(Complement and coagulation cascades)
+gene_177	ko04810(Regulation of actin cytoskeleton);ko04080(Neuroactive ligand-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_178	NA
+gene_179	ko04610(Complement and coagulation cascades)
+gene_180	NA
+gene_181	ko04810(Regulation of actin cytoskeleton);ko04080(Neuroactive ligand-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_182	ko04810(Regulation of actin cytoskeleton);ko04080(Neuroactive ligand-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_183	ko04216(Ferroptosis);ko00860(Porphyrin and chlorophyll metabolism)
+gene_184	NA
+gene_185	NA
+gene_186	ko04111(Cell cycle - yeast);ko04113(Meiosis - yeast);ko04114(Oocyte meiosis);ko04530(Tight junction);ko04152(AMPK signaling pathway);ko04390(Hippo signaling pathway);ko04391(Hippo signaling pathway -fly);ko04151(PI3K-Akt signaling pathway);ko04071(Sphingolipid signaling pathway);ko04350(TGF-beta signaling pathway);ko03015(mRNA surveillance pathway);ko04261(Adrenergic signaling in cardiomyocytes);ko04728(Dopaminergic synapse);ko04730(Long-term depression)
+gene_187	NA
+gene_188	NA
+gene_189	ko00561(Glycerolipid metabolism);ko00100(Steroid biosynthesis);ko04975(Fat digestion and absorption);ko04972(Pancreatic secretion)
+gene_190	ko04610(Complement and coagulation cascades)
+gene_191	NA
+gene_192	ko03010(Ribosome)
+gene_193	ko04610(Complement and coagulation cascades)
+gene_194	NA
+gene_195	ko04610(Complement and coagulation cascades)
+gene_196	ko04610(Complement and coagulation cascades)
+gene_197	NA
+gene_198	ko04610(Complement and coagulation cascades)
+gene_199	NA
+gene_200	ko04610(Complement and coagulation cascades)
+gene_201	NA
+gene_202	ko04610(Complement and coagulation cascades)
+gene_203	NA
+gene_204	NA
+gene_205	ko04610(Complement and coagulation cascades)
+gene_206	ko04140(Autophagy - animal)
+gene_207	ko03010(Ribosome)
+gene_208	ko04610(Complement and coagulation cascades)
+gene_209	NA
+gene_210	NA
+gene_211	ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption)
+gene_212	ko04210(Apoptosis);ko04140(Autophagy - animal);ko04142(Lysosome);ko04145(Phagosome);ko04612(Antigen processing and presentation)
+gene_213	ko04080(Neuroactive ligand-receptor interaction);ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption)
+gene_214	NA
+gene_215	ko04080(Neuroactive ligand-receptor interaction);ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption)
+gene_216	ko04610(Complement and coagulation cascades);ko04611(Platelet activation)
+gene_217	ko04514(Cell adhesion molecules (CAMs))
+gene_218	ko00561(Glycerolipid metabolism);ko04975(Fat digestion and absorption)
+gene_219	ko04141(Protein processing in endoplasmic reticulum)
+gene_220	ko04270(Vascular smooth muscle contraction);ko04924(Renin secretion);ko04614(Renin-angiotensin system)
+gene_221	NA
+gene_222	NA
+gene_223	ko04976(Bile secretion)
+gene_224	ko04270(Vascular smooth muscle contraction);ko04924(Renin secretion);ko04614(Renin-angiotensin system)
+gene_225	NA
+gene_226	ko04270(Vascular smooth muscle contraction);ko04924(Renin secretion);ko04614(Renin-angiotensin system)
+gene_227	ko04270(Vascular smooth muscle contraction);ko04924(Renin secretion);ko04614(Renin-angiotensin system)
+gene_228	ko04610(Complement and coagulation cascades)
+gene_229	NA
+gene_230	NA
+gene_231	ko04270(Vascular smooth muscle contraction);ko04924(Renin secretion);ko04614(Renin-angiotensin system)
+gene_232	NA
+gene_233	ko04270(Vascular smooth muscle contraction);ko04924(Renin secretion);ko04614(Renin-angiotensin system)
+gene_234	NA
+gene_235	ko03013(RNA transport)
+gene_236	ko04141(Protein processing in endoplasmic reticulum);ko04918(Thyroid hormone synthesis)
+gene_237	ko04270(Vascular smooth muscle contraction);ko04924(Renin secretion);ko04614(Renin-angiotensin system)
+gene_238	NA
+gene_239	ko04270(Vascular smooth muscle contraction);ko04924(Renin secretion);ko04614(Renin-angiotensin system)
+gene_240	ko00250(Alanine, aspartate and glutamate metabolism);ko00330(Arginine and proline metabolism);ko00220(Arginine biosynthesis);ko00270(Cysteine and methionine metabolism);ko00360(Phenylalanine metabolism);ko00400(Phenylalanine, tyrosine and tryptophan biosynthesis);ko00350(Tyrosine metabolism);ko00950(Isoquinoline alkaloid biosynthesis);ko00960(Tropane, piperidine and pyridine alkaloid biosynthesis);ko00710(Carbon fixation in photosynthetic organisms);ko01210(2-Oxocarboxylic acid metabolism);ko01230(Biosynthesis of amino acids);ko01200(Carbon metabolism);ko04975(Fat digestion and absorption)
+gene_241	NA
+gene_242	NA
+gene_243	NA
+gene_244	ko00350(Tyrosine metabolism);ko00643(Styrene degradation)
+gene_245	NA
+gene_246	ko00350(Tyrosine metabolism);ko00643(Styrene degradation)
+gene_247	NA
+gene_248	ko00350(Tyrosine metabolism);ko00643(Styrene degradation)
+gene_249	ko00350(Tyrosine metabolism);ko00643(Styrene degradation)
+gene_250	NA
+gene_251	ko00350(Tyrosine metabolism);ko00643(Styrene degradation)
+gene_252	NA
+gene_253	ko00350(Tyrosine metabolism);ko00643(Styrene degradation)
+gene_254	ko04975(Fat digestion and absorption);ko04977(Vitamin digestion and absorption)
+gene_255	NA
+gene_256	ko03010(Ribosome)
+gene_257	ko04975(Fat digestion and absorption);ko04977(Vitamin digestion and absorption)
+gene_258	NA
+gene_259	ko00190(Oxidative phosphorylation);ko04260(Cardiac muscle contraction)
+gene_260	ko04975(Fat digestion and absorption);ko04977(Vitamin digestion and absorption)
+gene_261	ko04975(Fat digestion and absorption);ko04977(Vitamin digestion and absorption)
+gene_262	NA
+gene_263	ko04975(Fat digestion and absorption);ko04977(Vitamin digestion and absorption)
+gene_264	ko04080(Neuroactive ligand-receptor interaction);ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption)
+gene_265	NA
+gene_266	ko00270(Cysteine and methionine metabolism);ko00020(Citrate cycle (TCA cycle));ko00630(Glyoxylate and dicarboxylate metabolism);ko00620(Pyruvate metabolism);ko00710(Carbon fixation in photosynthetic organisms);ko01200(Carbon metabolism);ko04964(Proximal tubule bicarbonate reclamation)
+gene_267	NA
+gene_268	ko03010(Ribosome)
+gene_269	NA
+gene_270	ko00350(Tyrosine metabolism)
+gene_271	NA
+gene_272	ko00100(Steroid biosynthesis)
+gene_273	ko00190(Oxidative phosphorylation);ko04260(Cardiac muscle contraction)
+gene_274	ko03013(RNA transport)
+gene_275	ko03010(Ribosome)
+gene_276	ko03010(Ribosome)
+gene_277	NA
+gene_278	ko03010(Ribosome)
+gene_279	NA
+gene_280	ko04146(Peroxisome);ko00590(Arachidonic acid metabolism);ko00625(Chloroalkane and chloroalkene degradation)
+gene_281	NA
+gene_282	ko04146(Peroxisome);ko00590(Arachidonic acid metabolism);ko00625(Chloroalkane and chloroalkene degradation)
+gene_283	ko04146(Peroxisome);ko00590(Arachidonic acid metabolism);ko00625(Chloroalkane and chloroalkene degradation)
+gene_284	NA
+gene_285	ko03010(Ribosome)
+gene_286	ko03010(Ribosome)
+gene_287	ko04080(Neuroactive ligand-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_288	NA
+gene_289	ko04080(Neuroactive ligand-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_290	NA
+gene_291	ko04080(Neuroactive ligand-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_292	ko04080(Neuroactive ligand-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_293	ko04146(Peroxisome);ko00250(Alanine, aspartate and glutamate metabolism);ko00260(Glycine, serine and threonine metabolism);ko00630(Glyoxylate and dicarboxylate metabolism);ko00680(Methane metabolism);ko01200(Carbon metabolism)
+gene_294	NA
+gene_295	NA
+gene_296	ko03010(Ribosome)
+gene_297	NA
+gene_298	ko04144(Endocytosis);ko04010(MAPK signaling pathway);ko04141(Protein processing in endoplasmic reticulum);ko03040(Spliceosome);ko04213(Longevity regulating pathway - multiple species);ko04915(Estrogen signaling pathway);ko04612(Antigen processing and presentation)
+gene_299	NA
+gene_300	ko00190(Oxidative phosphorylation);ko04723(Retrograde endocannabinoid signaling)
+gene_301	ko03060(Protein export)
+gene_302	ko04610(Complement and coagulation cascades)
+gene_303	ko03010(Ribosome)
+gene_304	ko04110(Cell cycle);ko04114(Oocyte meiosis);ko04390(Hippo signaling pathway);ko04391(Hippo signaling pathway -fly);ko04013(MAPK signaling pathway - fly);ko04151(PI3K-Akt signaling pathway);ko04212(Longevity regulating pathway - worm)
+gene_305	NA
+gene_306	ko00190(Oxidative phosphorylation);ko04723(Retrograde endocannabinoid signaling)
+gene_307	ko04610(Complement and coagulation cascades)
+gene_308	NA
+gene_309	NA
+gene_310	ko04610(Complement and coagulation cascades)
+gene_311	NA
+gene_312	NA
+gene_313	ko04610(Complement and coagulation cascades)
+gene_314	ko04610(Complement and coagulation cascades)
+gene_315	NA
+gene_316	ko04080(Neuroactive ligand-receptor interaction);ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption)
+gene_317	ko04080(Neuroactive ligand-receptor interaction);ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption)
+gene_318	NA
+gene_319	ko04080(Neuroactive ligand-receptor interaction);ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption)
+gene_320	NA
+gene_321	ko04080(Neuroactive ligand-receptor interaction);ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption)
+gene_322	NA
+gene_323	ko03010(Ribosome)
+gene_324	ko04080(Neuroactive ligand-receptor interaction);ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption)
+gene_325	ko04145(Phagosome);ko04610(Complement and coagulation cascades)
+gene_326	NA
+gene_327	ko00190(Oxidative phosphorylation)
+gene_328	ko00565(Ether lipid metabolism);ko00564(Glycerophospholipid metabolism);ko00440(Phosphonate and phosphinate metabolism)
+gene_329	ko04080(Neuroactive ligand-receptor interaction);ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption)
+gene_330	NA
+gene_331	ko00190(Oxidative phosphorylation);ko04260(Cardiac muscle contraction)
+gene_332	NA
+gene_333	ko04080(Neuroactive ligand-receptor interaction);ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption)
+gene_334	NA
+gene_335	ko04080(Neuroactive ligand-receptor interaction);ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption)
+gene_336	ko04080(Neuroactive ligand-receptor interaction);ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption)
+gene_337	NA
+gene_338	ko04217(Necroptosis);ko04020(Calcium signaling pathway);ko04022(cGMP - PKG signaling pathway)
+gene_339	NA
+gene_340	ko04150(mTOR signaling pathway)
+gene_341	NA
+gene_342	NA
+gene_343	NA
+gene_344	NA
+gene_345	ko03010(Ribosome)
+gene_346	NA
+gene_347	NA
+gene_348	ko04520(Adherens junction);ko04390(Hippo signaling pathway);ko04310(Wnt signaling pathway);ko04916(Melanogenesis)
+gene_349	NA
+gene_350	ko04145(Phagosome);ko04610(Complement and coagulation cascades)
+gene_351	ko03040(Spliceosome);ko03013(RNA transport);ko03015(mRNA surveillance pathway)
+gene_352	NA
+gene_353	ko04610(Complement and coagulation cascades);ko04611(Platelet activation)
+gene_354	ko03010(Ribosome)
+gene_355	NA
+gene_356	ko03040(Spliceosome)
+gene_357	ko03040(Spliceosome);ko03013(RNA transport);ko03015(mRNA surveillance pathway)
+gene_358	ko03010(Ribosome)
+gene_359	ko03040(Spliceosome);ko03013(RNA transport);ko03015(mRNA surveillance pathway)
+gene_360	NA
+gene_361	ko03040(Spliceosome);ko03013(RNA transport);ko03015(mRNA surveillance pathway)
+gene_362	ko03040(Spliceosome);ko03013(RNA transport);ko03015(mRNA surveillance pathway)
+gene_363	NA
+gene_364	ko03040(Spliceosome);ko03013(RNA transport);ko03015(mRNA surveillance pathway)
+gene_365	NA
+gene_366	ko04610(Complement and coagulation cascades)
+gene_367	ko04610(Complement and coagulation cascades)
+gene_368	NA
+gene_369	NA
+gene_370	ko04217(Necroptosis);ko04151(PI3K-Akt signaling pathway);ko04141(Protein processing in endoplasmic reticulum);ko04915(Estrogen signaling pathway);ko04914(Progesterone-mediated oocyte maturation);ko04626(Plant-pathogen interaction);ko04612(Antigen processing and presentation);ko04657(IL-17 signaling pathway);ko04621(NOD-like receptor signaling pathway);ko04659(Th17 cell differentiation)
+gene_371	NA
+gene_372	NA
+gene_373	NA
+gene_374	ko04610(Complement and coagulation cascades)
+gene_375	NA
+gene_376	NA
+gene_377	NA
+gene_378	ko03010(Ribosome)
+gene_379	ko00190(Oxidative phosphorylation);ko04723(Retrograde endocannabinoid signaling)
+gene_380	NA
+gene_381	ko03018(RNA degradation);ko04212(Longevity regulating pathway - worm)
+gene_382	NA
+gene_383	ko03010(Ribosome)
+gene_384	NA
+gene_385	ko04371(Apelin signaling pathway);ko04151(PI3K-Akt signaling pathway);ko04014(Ras signaling pathway);ko04713(Circadian entrainment);ko04062(Chemokine signaling pathway);ko04725(Cholinergic synapse);ko04728(Dopaminergic synapse);ko04727(GABAergic synapse);ko04724(Glutamatergic synapse);ko04723(Retrograde endocannabinoid signaling);ko04726(Serotonergic synapse)
+gene_386	NA
+gene_387	ko04371(Apelin signaling pathway);ko04151(PI3K-Akt signaling pathway);ko04014(Ras signaling pathway);ko04713(Circadian entrainment);ko04062(Chemokine signaling pathway);ko04725(Cholinergic synapse);ko04728(Dopaminergic synapse);ko04727(GABAergic synapse);ko04724(Glutamatergic synapse);ko04723(Retrograde endocannabinoid signaling);ko04726(Serotonergic synapse)
+gene_388	ko00190(Oxidative phosphorylation)
+gene_389	ko03010(Ribosome)
+gene_390	NA
+gene_391	ko00190(Oxidative phosphorylation)
+gene_392	ko04371(Apelin signaling pathway);ko04151(PI3K-Akt signaling pathway);ko04014(Ras signaling pathway);ko04713(Circadian entrainment);ko04062(Chemokine signaling pathway);ko04725(Cholinergic synapse);ko04728(Dopaminergic synapse);ko04727(GABAergic synapse);ko04724(Glutamatergic synapse);ko04723(Retrograde endocannabinoid signaling);ko04726(Serotonergic synapse)
+gene_393	ko04371(Apelin signaling pathway);ko04151(PI3K-Akt signaling pathway);ko04014(Ras signaling pathway);ko04713(Circadian entrainment);ko04062(Chemokine signaling pathway);ko04725(Cholinergic synapse);ko04728(Dopaminergic synapse);ko04727(GABAergic synapse);ko04724(Glutamatergic synapse);ko04723(Retrograde endocannabinoid signaling);ko04726(Serotonergic synapse)
+gene_394	NA
+gene_395	ko04371(Apelin signaling pathway);ko04151(PI3K-Akt signaling pathway);ko04014(Ras signaling pathway);ko04713(Circadian entrainment);ko04062(Chemokine signaling pathway);ko04725(Cholinergic synapse);ko04728(Dopaminergic synapse);ko04727(GABAergic synapse);ko04724(Glutamatergic synapse);ko04723(Retrograde endocannabinoid signaling);ko04726(Serotonergic synapse)
+gene_396	ko04144(Endocytosis);ko04010(MAPK signaling pathway);ko04141(Protein processing in endoplasmic reticulum);ko03040(Spliceosome);ko04213(Longevity regulating pathway - multiple species);ko04915(Estrogen signaling pathway);ko04612(Antigen processing and presentation)
+gene_397	NA
+gene_398	ko04371(Apelin signaling pathway);ko04151(PI3K-Akt signaling pathway);ko04014(Ras signaling pathway);ko04713(Circadian entrainment);ko04062(Chemokine signaling pathway);ko04725(Cholinergic synapse);ko04728(Dopaminergic synapse);ko04727(GABAergic synapse);ko04724(Glutamatergic synapse);ko04723(Retrograde endocannabinoid signaling);ko04726(Serotonergic synapse)
+gene_399	NA
+gene_400	ko04371(Apelin signaling pathway);ko04151(PI3K-Akt signaling pathway);ko04014(Ras signaling pathway);ko04713(Circadian entrainment);ko04062(Chemokine signaling pathway);ko04725(Cholinergic synapse);ko04728(Dopaminergic synapse);ko04727(GABAergic synapse);ko04724(Glutamatergic synapse);ko04723(Retrograde endocannabinoid signaling);ko04726(Serotonergic synapse)
+gene_401	ko03010(Ribosome)
+gene_402	ko03010(Ribosome)
+gene_403	ko04141(Protein processing in endoplasmic reticulum)
+gene_404	ko04145(Phagosome);ko04610(Complement and coagulation cascades)
+gene_405	ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption)
+gene_406	NA
+gene_407	ko04145(Phagosome);ko04610(Complement and coagulation cascades)
+gene_408	ko04210(Apoptosis);ko04810(Regulation of actin cytoskeleton);ko04520(Adherens junction);ko04510(Focal adhesion);ko04530(Tight junction);ko04145(Phagosome);ko04390(Hippo signaling pathway);ko04391(Hippo signaling pathway -fly);ko04015(Rap1 signaling pathway);ko04921(Oxytocin signaling pathway);ko04919(Thyroid hormone signaling pathway);ko04670(Leukocyte transendothelial migration);ko04611(Platelet activation);ko04745(Phototransduction - fly)
+gene_409	ko03010(Ribosome)
+gene_410	ko00561(Glycerolipid metabolism);ko04975(Fat digestion and absorption);ko04972(Pancreatic secretion)
+gene_411	NA
+gene_412	NA
+gene_413	ko04141(Protein processing in endoplasmic reticulum)
+gene_414	ko00120(Primary bile acid biosynthesis)
+gene_415	NA
+gene_416	ko00270(Cysteine and methionine metabolism);ko00360(Phenylalanine metabolism);ko00400(Phenylalanine, tyrosine and tryptophan biosynthesis);ko00350(Tyrosine metabolism);ko00950(Isoquinoline alkaloid biosynthesis);ko00401(Novobiocin biosynthesis);ko00960(Tropane, piperidine and pyridine alkaloid biosynthesis);ko00130(Ubiquinone and other terpenoid-quinone biosynthesis);ko01230(Biosynthesis of amino acids)
+gene_417	NA
+gene_418	ko00270(Cysteine and methionine metabolism);ko00360(Phenylalanine metabolism);ko00400(Phenylalanine, tyrosine and tryptophan biosynthesis);ko00350(Tyrosine metabolism);ko00950(Isoquinoline alkaloid biosynthesis);ko00401(Novobiocin biosynthesis);ko00960(Tropane, piperidine and pyridine alkaloid biosynthesis);ko00130(Ubiquinone and other terpenoid-quinone biosynthesis);ko01230(Biosynthesis of amino acids)
+gene_419	ko00270(Cysteine and methionine metabolism);ko00360(Phenylalanine metabolism);ko00400(Phenylalanine, tyrosine and tryptophan biosynthesis);ko00350(Tyrosine metabolism);ko00950(Isoquinoline alkaloid biosynthesis);ko00401(Novobiocin biosynthesis);ko00960(Tropane, piperidine and pyridine alkaloid biosynthesis);ko00130(Ubiquinone and other terpenoid-quinone biosynthesis);ko01230(Biosynthesis of amino acids)
+gene_420	ko03320(PPAR signaling pathway)
+gene_421	NA
+gene_422	ko00270(Cysteine and methionine metabolism);ko00360(Phenylalanine metabolism);ko00400(Phenylalanine, tyrosine and tryptophan biosynthesis);ko00350(Tyrosine metabolism);ko00950(Isoquinoline alkaloid biosynthesis);ko00401(Novobiocin biosynthesis);ko00960(Tropane, piperidine and pyridine alkaloid biosynthesis);ko00130(Ubiquinone and other terpenoid-quinone biosynthesis);ko01230(Biosynthesis of amino acids)
+gene_423	NA
+gene_424	ko00270(Cysteine and methionine metabolism);ko00360(Phenylalanine metabolism);ko00400(Phenylalanine, tyrosine and tryptophan biosynthesis);ko00350(Tyrosine metabolism);ko00950(Isoquinoline alkaloid biosynthesis);ko00401(Novobiocin biosynthesis);ko00960(Tropane, piperidine and pyridine alkaloid biosynthesis);ko00130(Ubiquinone and other terpenoid-quinone biosynthesis);ko01230(Biosynthesis of amino acids)
+gene_425	ko00480(Glutathione metabolism);ko00982(Drug metabolism - cytochrome P450);ko00980(Metabolism of xenobiotics by cytochrome P450)
+gene_426	NA
+gene_427	NA
+gene_428	NA
+gene_429	ko03020(RNA polymerase);ko00230(Purine metabolism);ko00240(Pyrimidine metabolism)
+gene_430	NA
+gene_431	ko04152(AMPK signaling pathway);ko04921(Oxytocin signaling pathway)
+gene_432	NA
+gene_433	ko00520(Amino sugar and nucleotide sugar metabolism);ko00010(Glycolysis / Gluconeogenesis);ko00030(Pentose phosphate pathway);ko00500(Starch and sucrose metabolism);ko01200(Carbon metabolism)
+gene_434	NA
+gene_435	NA
+gene_436	ko04610(Complement and coagulation cascades)
+gene_437	NA
+gene_438	ko00190(Oxidative phosphorylation);ko04260(Cardiac muscle contraction)
+gene_439	ko03010(Ribosome)
+gene_440	NA
+gene_441	ko00190(Oxidative phosphorylation)
+gene_442	NA
+gene_443	ko00190(Oxidative phosphorylation);ko04260(Cardiac muscle contraction)
+gene_444	NA
+gene_445	NA
+gene_446	ko00190(Oxidative phosphorylation);ko04723(Retrograde endocannabinoid signaling)
+gene_447	NA
+gene_448	ko03010(Ribosome)
+gene_449	NA
+gene_450	NA
+gene_451	ko00270(Cysteine and methionine metabolism);ko00360(Phenylalanine metabolism);ko00400(Phenylalanine, tyrosine and tryptophan biosynthesis);ko00350(Tyrosine metabolism);ko00950(Isoquinoline alkaloid biosynthesis);ko00401(Novobiocin biosynthesis);ko00960(Tropane, piperidine and pyridine alkaloid biosynthesis);ko00130(Ubiquinone and other terpenoid-quinone biosynthesis);ko01230(Biosynthesis of amino acids)
+gene_452	NA
+gene_453	ko00360(Phenylalanine metabolism);ko00350(Tyrosine metabolism);ko00130(Ubiquinone and other terpenoid-quinone biosynthesis)
+gene_454	NA
+gene_455	ko00360(Phenylalanine metabolism);ko00350(Tyrosine metabolism);ko00130(Ubiquinone and other terpenoid-quinone biosynthesis)
+gene_456	ko00360(Phenylalanine metabolism);ko00350(Tyrosine metabolism);ko00130(Ubiquinone and other terpenoid-quinone biosynthesis)
+gene_457	NA
+gene_458	ko04152(AMPK signaling pathway);ko00051(Fructose and mannose metabolism);ko04922(Glucagon signaling pathway)
+gene_459	ko00380(Tryptophan metabolism)
+gene_460	ko03010(Ribosome)
+gene_461	ko00190(Oxidative phosphorylation);ko04260(Cardiac muscle contraction)
+gene_462	ko03010(Ribosome)
+gene_463	NA
+gene_464	ko00360(Phenylalanine metabolism);ko00350(Tyrosine metabolism);ko00130(Ubiquinone and other terpenoid-quinone biosynthesis)
+gene_465	NA
+gene_466	ko00360(Phenylalanine metabolism);ko00350(Tyrosine metabolism);ko00130(Ubiquinone and other terpenoid-quinone biosynthesis)
+gene_467	ko04610(Complement and coagulation cascades)
+gene_468	ko00360(Phenylalanine metabolism);ko00350(Tyrosine metabolism);ko00130(Ubiquinone and other terpenoid-quinone biosynthesis)
+gene_469	NA
+gene_470	ko00360(Phenylalanine metabolism);ko00350(Tyrosine metabolism);ko00130(Ubiquinone and other terpenoid-quinone biosynthesis)
+gene_471	ko03010(Ribosome)
+gene_472	NA
+gene_473	NA
+gene_474	ko00190(Oxidative phosphorylation);ko04723(Retrograde endocannabinoid signaling)
+gene_475	ko00360(Phenylalanine metabolism);ko00350(Tyrosine metabolism);ko00130(Ubiquinone and other terpenoid-quinone biosynthesis)
+gene_476	ko00360(Phenylalanine metabolism);ko00350(Tyrosine metabolism);ko00130(Ubiquinone and other terpenoid-quinone biosynthesis)
+gene_477	NA
+gene_478	ko00360(Phenylalanine metabolism);ko00350(Tyrosine metabolism);ko00130(Ubiquinone and other terpenoid-quinone biosynthesis)
+gene_479	NA
+gene_480	NA
+gene_481	ko00360(Phenylalanine metabolism);ko00350(Tyrosine metabolism);ko00130(Ubiquinone and other terpenoid-quinone biosynthesis)
+gene_482	ko03010(Ribosome)
+gene_483	ko03010(Ribosome)
+gene_484	NA
+gene_485	ko04217(Necroptosis);ko04151(PI3K-Akt signaling pathway);ko04141(Protein processing in endoplasmic reticulum);ko04915(Estrogen signaling pathway);ko04914(Progesterone-mediated oocyte maturation);ko04626(Plant-pathogen interaction);ko04612(Antigen processing and presentation);ko04657(IL-17 signaling pathway);ko04621(NOD-like receptor signaling pathway);ko04659(Th17 cell differentiation)
+gene_486	NA
+gene_487	NA
+gene_488	NA
+gene_489	NA
+gene_490	NA
+gene_491	NA
+gene_492	NA
+gene_493	NA
+gene_494	ko04371(Apelin signaling pathway);ko04066(HIF-1 signaling pathway);ko04151(PI3K-Akt signaling pathway);ko04150(mTOR signaling pathway);ko03010(Ribosome);ko04910(Insulin signaling pathway)
+gene_495	ko03013(RNA transport)
+gene_496	NA
+gene_497	ko04610(Complement and coagulation cascades);ko04611(Platelet activation)
+gene_498	ko03320(PPAR signaling pathway)
+gene_499	NA
+gene_500	NA
+gene_501	NA
+gene_502	ko04140(Autophagy - animal)
+gene_503	NA
+gene_504	ko04510(Focal adhesion);ko04151(PI3K-Akt signaling pathway);ko04512(ECM-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_505	ko04610(Complement and coagulation cascades);ko04611(Platelet activation)
+gene_506	NA
+gene_507	NA
+gene_508	ko04140(Autophagy - animal)
+gene_509	ko04140(Autophagy - animal)
+gene_510	NA
+gene_511	ko04080(Neuroactive ligand-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_512	NA
+gene_513	ko04140(Autophagy - animal)
+gene_514	NA
+gene_515	ko04140(Autophagy - animal)
+gene_516	ko04140(Autophagy - animal)
+gene_517	ko04610(Complement and coagulation cascades)
+gene_518	ko00051(Fructose and mannose metabolism);ko00010(Glycolysis / Gluconeogenesis);ko00030(Pentose phosphate pathway);ko00710(Carbon fixation in photosynthetic organisms);ko00680(Methane metabolism);ko01230(Biosynthesis of amino acids);ko01200(Carbon metabolism)
+gene_519	ko00980(Metabolism of xenobiotics by cytochrome P450)
+gene_520	ko00590(Arachidonic acid metabolism);ko00480(Glutathione metabolism);ko04918(Thyroid hormone synthesis)
+gene_521	NA
+gene_522	NA
+gene_523	NA
+gene_524	ko03010(Ribosome)
+gene_525	NA
+gene_526	NA
+gene_527	ko00190(Oxidative phosphorylation);ko04260(Cardiac muscle contraction)
+gene_528	ko00500(Starch and sucrose metabolism);ko04973(Carbohydrate digestion and absorption)
+gene_529	ko04080(Neuroactive ligand-receptor interaction);ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption)
+gene_530	NA
+gene_531	ko04144(Endocytosis);ko04145(Phagosome);ko04514(Cell adhesion molecules (CAMs));ko04612(Antigen processing and presentation);ko04650(Natural killer cell mediated cytotoxicity)
+gene_532	ko04144(Endocytosis);ko04145(Phagosome);ko04514(Cell adhesion molecules (CAMs));ko04612(Antigen processing and presentation);ko04650(Natural killer cell mediated cytotoxicity)
+gene_533	NA
+gene_534	ko04144(Endocytosis);ko04145(Phagosome);ko04514(Cell adhesion molecules (CAMs));ko04612(Antigen processing and presentation);ko04650(Natural killer cell mediated cytotoxicity)
+gene_535	NA
+gene_536	ko03010(Ribosome)
+gene_537	ko03010(Ribosome)
+gene_538	NA
+gene_539	ko04110(Cell cycle);ko04111(Cell cycle - yeast);ko04114(Oocyte meiosis);ko04066(HIF-1 signaling pathway);ko04341(Hedgehog signaling pathway - fly);ko04350(TGF-beta signaling pathway);ko04310(Wnt signaling pathway);ko04141(Protein processing in endoplasmic reticulum);ko04120(Ubiquitin mediated proteolysis);ko03420(Nucleotide excision repair);ko04710(Circadian rhythm)
+gene_540	NA
+gene_541	NA
+gene_542	NA
+gene_543	NA
+gene_544	ko00190(Oxidative phosphorylation);ko04723(Retrograde endocannabinoid signaling)
+gene_545	ko04610(Complement and coagulation cascades)
+gene_546	ko00250(Alanine, aspartate and glutamate metabolism);ko00330(Arginine and proline metabolism);ko00220(Arginine biosynthesis);ko00270(Cysteine and methionine metabolism);ko00360(Phenylalanine metabolism);ko00400(Phenylalanine, tyrosine and tryptophan biosynthesis);ko00350(Tyrosine metabolism);ko00950(Isoquinoline alkaloid biosynthesis);ko00960(Tropane, piperidine and pyridine alkaloid biosynthesis);ko00710(Carbon fixation in photosynthetic organisms);ko01210(2-Oxocarboxylic acid metabolism);ko01230(Biosynthesis of amino acids);ko01200(Carbon metabolism);ko04975(Fat digestion and absorption)
+gene_547	NA
+gene_548	ko00190(Oxidative phosphorylation);ko04260(Cardiac muscle contraction)
+gene_549	NA
+gene_550	NA
+gene_551	ko03010(Ribosome)
+gene_552	ko04610(Complement and coagulation cascades)
+gene_553	NA
+gene_554	ko03010(Ribosome)
+gene_555	ko03010(Ribosome)
+gene_556	ko04080(Neuroactive ligand-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_557	ko03010(Ribosome)
+gene_558	NA
+gene_559	ko00190(Oxidative phosphorylation);ko04723(Retrograde endocannabinoid signaling)
+gene_560	NA
+gene_561	NA
+gene_562	NA
+gene_563	ko03010(Ribosome)
+gene_564	NA
+gene_565	NA
+gene_566	NA
+gene_567	NA
+gene_568	ko03010(Ribosome)
+gene_569	ko04217(Necroptosis);ko04151(PI3K-Akt signaling pathway);ko04141(Protein processing in endoplasmic reticulum);ko04915(Estrogen signaling pathway);ko04914(Progesterone-mediated oocyte maturation);ko04626(Plant-pathogen interaction);ko04612(Antigen processing and presentation);ko04657(IL-17 signaling pathway);ko04621(NOD-like receptor signaling pathway);ko04659(Th17 cell differentiation)
+gene_570	NA
+gene_571	ko03010(Ribosome)
+gene_572	NA
+gene_573	NA
+gene_574	NA
+gene_575	ko03010(Ribosome)
+gene_576	ko03020(RNA polymerase);ko00230(Purine metabolism);ko00240(Pyrimidine metabolism);ko04623(Cytosolic DNA-sensing pathway)
+gene_577	ko04214(Apoptosis - fly)
+gene_578	ko04610(Complement and coagulation cascades);ko04611(Platelet activation)
+gene_579	NA
+gene_580	NA
+gene_581	NA
+gene_582	ko04610(Complement and coagulation cascades)
+gene_583	ko04610(Complement and coagulation cascades)
+gene_584	NA
+gene_585	NA
+gene_586	NA
+gene_587	NA
+gene_588	NA
+gene_589	ko00020(Citrate cycle (TCA cycle));ko00190(Oxidative phosphorylation);ko01200(Carbon metabolism)
+gene_590	ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption)
+gene_591	NA
+gene_592	ko04610(Complement and coagulation cascades);ko04640(Hematopoietic cell lineage)
+gene_593	ko03013(RNA transport)
+gene_594	NA
+gene_595	NA
+gene_596	NA
+gene_597	NA
+gene_598	NA
+gene_599	NA
+gene_600	ko03013(RNA transport)
+gene_601	NA
+gene_602	NA
+gene_603	NA
+gene_604	NA
+gene_605	NA
+gene_606	NA
+gene_607	NA
+gene_608	NA
+gene_609	ko00620(Pyruvate metabolism)
+gene_610	NA
+gene_611	ko00561(Glycerolipid metabolism);ko04975(Fat digestion and absorption)
+gene_612	NA
+gene_613	ko03020(RNA polymerase);ko00230(Purine metabolism);ko00240(Pyrimidine metabolism);ko04623(Cytosolic DNA-sensing pathway)
+gene_614	NA
+gene_615	NA
+gene_616	NA
+gene_617	NA
+gene_618	NA
+gene_619	NA
+gene_620	NA
+gene_621	ko00190(Oxidative phosphorylation);ko04260(Cardiac muscle contraction)
+gene_622	NA
+gene_623	NA
+gene_624	NA
+gene_625	NA
+gene_626	ko03010(Ribosome)
+gene_627	ko03010(Ribosome)
+gene_628	NA
+gene_629	ko04216(Ferroptosis);ko04066(HIF-1 signaling pathway);ko04978(Mineral absorption)
+gene_630	NA
+gene_631	ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption);ko04610(Complement and coagulation cascades)
+gene_632	NA
+gene_633	NA
+gene_634	ko04610(Complement and coagulation cascades)
+gene_635	ko00190(Oxidative phosphorylation);ko04260(Cardiac muscle contraction)
+gene_636	ko00780(Biotin metabolism);ko04977(Vitamin digestion and absorption)
+gene_637	ko00190(Oxidative phosphorylation)
+gene_638	NA
+gene_639	ko03010(Ribosome)
+gene_640	NA
+gene_641	NA
+gene_642	ko03010(Ribosome)
+gene_643	NA
+gene_644	NA
+gene_645	NA
+gene_646	ko00190(Oxidative phosphorylation);ko04723(Retrograde endocannabinoid signaling)
+gene_647	ko03010(Ribosome)
+gene_648	NA
+gene_649	NA
+gene_650	ko00190(Oxidative phosphorylation);ko04723(Retrograde endocannabinoid signaling)
+gene_651	NA
+gene_652	ko00190(Oxidative phosphorylation);ko04260(Cardiac muscle contraction)
+gene_653	ko04610(Complement and coagulation cascades)
+gene_654	NA
+gene_655	ko04152(AMPK signaling pathway);ko04068(FoxO signaling pathway);ko04151(PI3K-Akt signaling pathway);ko00020(Citrate cycle (TCA cycle));ko00010(Glycolysis / Gluconeogenesis);ko00620(Pyruvate metabolism);ko04920(Adipocytokine signaling pathway);ko04922(Glucagon signaling pathway);ko04910(Insulin signaling pathway);ko03320(PPAR signaling pathway);ko04964(Proximal tubule bicarbonate reclamation)
+gene_656	ko04510(Focal adhesion);ko04151(PI3K-Akt signaling pathway);ko04512(ECM-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_657	NA
+gene_658	NA
+gene_659	NA
+gene_660	ko03010(Ribosome)
+gene_661	ko00190(Oxidative phosphorylation);ko04260(Cardiac muscle contraction)
+gene_662	ko03010(Ribosome)
+gene_663	NA
+gene_664	ko00270(Cysteine and methionine metabolism);ko00260(Glycine, serine and threonine metabolism)
+gene_665	NA
+gene_666	NA
+gene_667	NA
+gene_668	NA
+gene_669	NA
+gene_670	ko03010(Ribosome)
+gene_671	NA
+gene_672	ko03010(Ribosome)
+gene_673	ko03040(Spliceosome)
+gene_674	NA
+gene_675	ko00190(Oxidative phosphorylation);ko04723(Retrograde endocannabinoid signaling)
+gene_676	NA
+gene_677	NA
+gene_678	NA
+gene_679	ko03010(Ribosome)
+gene_680	NA
+gene_681	NA
+gene_682	ko03010(Ribosome)
+gene_683	NA
+gene_684	ko03010(Ribosome)
+gene_685	ko03010(Ribosome)
+gene_686	NA
+gene_687	ko04216(Ferroptosis);ko04066(HIF-1 signaling pathway);ko00860(Porphyrin and chlorophyll metabolism);ko04978(Mineral absorption)
+gene_688	NA
+gene_689	ko04610(Complement and coagulation cascades)
+gene_690	ko03020(RNA polymerase);ko00230(Purine metabolism);ko00240(Pyrimidine metabolism);ko04623(Cytosolic DNA-sensing pathway)
+gene_691	NA
+gene_692	NA
+gene_693	ko00190(Oxidative phosphorylation);ko04260(Cardiac muscle contraction)
+gene_694	ko04610(Complement and coagulation cascades)
+gene_695	NA
+gene_696	NA
+gene_697	ko04510(Focal adhesion);ko04151(PI3K-Akt signaling pathway);ko04512(ECM-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_698	NA
+gene_699	NA
+gene_700	ko04510(Focal adhesion);ko04151(PI3K-Akt signaling pathway);ko04512(ECM-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_701	NA
+gene_702	ko04510(Focal adhesion);ko04151(PI3K-Akt signaling pathway);ko04512(ECM-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_703	ko00190(Oxidative phosphorylation);ko04723(Retrograde endocannabinoid signaling)
+gene_704	NA
+gene_705	ko04510(Focal adhesion);ko04151(PI3K-Akt signaling pathway);ko04512(ECM-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_706	NA
+gene_707	ko04510(Focal adhesion);ko04151(PI3K-Akt signaling pathway);ko04512(ECM-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_708	ko04510(Focal adhesion);ko04151(PI3K-Akt signaling pathway);ko04512(ECM-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_709	ko04510(Focal adhesion);ko04151(PI3K-Akt signaling pathway);ko04512(ECM-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_710	NA
+gene_711	ko04510(Focal adhesion);ko04151(PI3K-Akt signaling pathway);ko04512(ECM-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_712	ko04510(Focal adhesion);ko04151(PI3K-Akt signaling pathway);ko04512(ECM-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_713	NA
+gene_714	ko03010(Ribosome)
+gene_715	NA
+gene_716	NA
+gene_717	ko04610(Complement and coagulation cascades)
+gene_718	NA
+gene_719	ko00190(Oxidative phosphorylation);ko04723(Retrograde endocannabinoid signaling)
+gene_720	ko04020(Calcium signaling pathway);ko04022(cGMP - PKG signaling pathway)
+gene_721	NA
+gene_722	NA
+gene_723	ko04610(Complement and coagulation cascades)
+gene_724	NA
+gene_725	ko04610(Complement and coagulation cascades)
+gene_726	NA
+gene_727	ko04610(Complement and coagulation cascades)
+gene_728	NA
+gene_729	ko04610(Complement and coagulation cascades)
+gene_730	NA
+gene_731	NA
+gene_732	ko00330(Arginine and proline metabolism);ko00340(Histidine metabolism);ko00310(Lysine degradation);ko00380(Tryptophan metabolism);ko00280(Valine, leucine and isoleucine degradation);ko00053(Ascorbate and aldarate metabolism);ko00010(Glycolysis / Gluconeogenesis);ko00620(Pyruvate metabolism);ko00071(Fatty acid degradation);ko00561(Glycerolipid metabolism);ko00410(beta-Alanine metabolism);ko00981(Insect hormone biosynthesis);ko00903(Limonene and pinene degradation);ko00625(Chloroalkane and chloroalkene degradation)
+gene_733	NA
+gene_734	ko00190(Oxidative phosphorylation);ko04260(Cardiac muscle contraction)
+gene_735	NA
+gene_736	ko04610(Complement and coagulation cascades)
+gene_737	ko04610(Complement and coagulation cascades)
+gene_738	NA
+gene_739	ko04217(Necroptosis);ko04151(PI3K-Akt signaling pathway);ko04141(Protein processing in endoplasmic reticulum);ko04915(Estrogen signaling pathway);ko04914(Progesterone-mediated oocyte maturation);ko04626(Plant-pathogen interaction);ko04612(Antigen processing and presentation);ko04657(IL-17 signaling pathway);ko04621(NOD-like receptor signaling pathway);ko04659(Th17 cell differentiation)
+gene_740	ko04610(Complement and coagulation cascades)
+gene_741	NA
+gene_742	NA
+gene_743	NA
+gene_744	NA
+gene_745	NA
+gene_746	ko03010(Ribosome)
+gene_747	ko00190(Oxidative phosphorylation)
+gene_748	NA
+gene_749	NA
+gene_750	ko03010(Ribosome)
+gene_751	NA
+gene_752	NA
+gene_753	NA
+gene_754	ko04146(Peroxisome);ko03320(PPAR signaling pathway)
+gene_755	NA
+gene_756	ko04610(Complement and coagulation cascades)
+gene_757	ko00940(Phenylpropanoid biosynthesis)
+gene_758	ko00190(Oxidative phosphorylation);ko04723(Retrograde endocannabinoid signaling)
+gene_759	ko04810(Regulation of actin cytoskeleton);ko04080(Neuroactive ligand-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_760	NA
+gene_761	NA
+gene_762	NA
+gene_763	ko00190(Oxidative phosphorylation)
+gene_764	NA
+gene_765	ko00250(Alanine, aspartate and glutamate metabolism);ko00520(Amino sugar and nucleotide sugar metabolism)
+gene_766	ko00250(Alanine, aspartate and glutamate metabolism);ko00220(Arginine biosynthesis);ko00710(Carbon fixation in photosynthetic organisms);ko01210(2-Oxocarboxylic acid metabolism);ko01230(Biosynthesis of amino acids);ko01200(Carbon metabolism)
+gene_767	NA
+gene_768	NA
+gene_769	NA
+gene_770	NA
+gene_771	ko03010(Ribosome)
+gene_772	NA
+gene_773	ko04610(Complement and coagulation cascades)
+gene_774	NA
+gene_775	NA
+gene_776	ko03010(Ribosome)
+gene_777	ko04144(Endocytosis);ko04072(Phospholipase D signaling pathway)
+gene_778	NA
+gene_779	NA
+gene_780	ko04610(Complement and coagulation cascades)
+gene_781	NA
+gene_782	NA
+gene_783	ko04610(Complement and coagulation cascades)
+gene_784	NA
+gene_785	ko04610(Complement and coagulation cascades)
+gene_786	ko04145(Phagosome);ko04610(Complement and coagulation cascades)
+gene_787	NA
+gene_788	ko04550(Signaling pathways regulating pluripotency of stem cells);ko04630(Jak-STAT signaling pathway);ko04060(Cytokine-cytokine receptor interaction);ko04659(Th17 cell differentiation)
+gene_789	NA
+gene_790	NA
+gene_791	ko03010(Ribosome)
+gene_792	NA
+gene_793	NA
+gene_794	NA
+gene_795	NA
+gene_796	NA
+gene_797	NA
+gene_798	NA
+gene_799	ko04216(Ferroptosis);ko04066(HIF-1 signaling pathway);ko04978(Mineral absorption)
+gene_800	NA
+gene_801	NA
+gene_802	NA
+gene_803	NA
+gene_804	NA
+gene_805	ko03010(Ribosome)
+gene_806	NA
+gene_807	ko00051(Fructose and mannose metabolism);ko00010(Glycolysis / Gluconeogenesis);ko00030(Pentose phosphate pathway);ko00710(Carbon fixation in photosynthetic organisms);ko00680(Methane metabolism);ko01230(Biosynthesis of amino acids);ko01200(Carbon metabolism)
+gene_808	NA
+gene_809	ko00340(Histidine metabolism)
+gene_810	NA
+gene_811	ko04668(TNF signaling pathway);ko04060(Cytokine-cytokine receptor interaction);ko04062(Chemokine signaling pathway);ko04623(Cytosolic DNA-sensing pathway);ko04657(IL-17 signaling pathway);ko04622(RIG-I-like receptor signaling pathway);ko04620(Toll-like receptor signaling pathway)
+gene_812	ko04145(Phagosome);ko03060(Protein export);ko04141(Protein processing in endoplasmic reticulum)
+gene_813	NA
+gene_814	NA
+gene_815	ko04145(Phagosome);ko03060(Protein export);ko04141(Protein processing in endoplasmic reticulum)
+gene_816	NA
+gene_817	ko04145(Phagosome);ko03060(Protein export);ko04141(Protein processing in endoplasmic reticulum)
+gene_818	ko04145(Phagosome);ko03060(Protein export);ko04141(Protein processing in endoplasmic reticulum)
+gene_819	NA
+gene_820	ko04080(Neuroactive ligand-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_821	NA
+gene_822	ko04145(Phagosome);ko03060(Protein export);ko04141(Protein processing in endoplasmic reticulum)
+gene_823	NA
+gene_824	NA
+gene_825	ko04145(Phagosome);ko03060(Protein export);ko04141(Protein processing in endoplasmic reticulum)
+gene_826	ko04145(Phagosome);ko03060(Protein export);ko04141(Protein processing in endoplasmic reticulum)
+gene_827	ko04145(Phagosome);ko03060(Protein export);ko04141(Protein processing in endoplasmic reticulum)
+gene_828	ko04145(Phagosome);ko03060(Protein export);ko04141(Protein processing in endoplasmic reticulum)
+gene_829	NA
+gene_830	ko00190(Oxidative phosphorylation);ko04260(Cardiac muscle contraction)
+gene_831	ko04610(Complement and coagulation cascades)
+gene_832	ko04610(Complement and coagulation cascades)
+gene_833	NA
+gene_834	NA
+gene_835	NA
+gene_836	NA
+gene_837	NA
+gene_838	NA
+gene_839	NA
+gene_840	NA
+gene_841	ko03010(Ribosome)
+gene_842	NA
+gene_843	NA
+gene_844	ko00190(Oxidative phosphorylation)
+gene_845	NA
+gene_846	ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption)
+gene_847	NA
+gene_848	ko03010(Ribosome)
+gene_849	NA
+gene_850	NA
+gene_851	NA
+gene_852	NA
+gene_853	NA
+gene_854	NA
+gene_855	NA
+gene_856	NA
+gene_857	ko03010(Ribosome)
+gene_858	NA
+gene_859	NA
+gene_860	NA
+gene_861	NA
+gene_862	ko00920(Sulfur metabolism)
+gene_863	ko00190(Oxidative phosphorylation);ko04723(Retrograde endocannabinoid signaling)
+gene_864	NA
+gene_865	NA
+gene_866	NA
+gene_867	NA
+gene_868	ko04610(Complement and coagulation cascades)
+gene_869	NA
+gene_870	ko04080(Neuroactive ligand-receptor interaction);ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption)
+gene_871	ko03010(Ribosome)
+gene_872	NA
+gene_873	ko00280(Valine, leucine and isoleucine degradation)
+gene_874	ko00053(Ascorbate and aldarate metabolism);ko00040(Pentose and glucuronate interconversions);ko00140(Steroid hormone biosynthesis);ko00860(Porphyrin and chlorophyll metabolism);ko00830(Retinol metabolism);ko00982(Drug metabolism - cytochrome P450);ko00983(Drug metabolism - other enzymes);ko00980(Metabolism of xenobiotics by cytochrome P450)
+gene_875	ko04144(Endocytosis);ko04010(MAPK signaling pathway);ko04141(Protein processing in endoplasmic reticulum);ko03040(Spliceosome);ko04213(Longevity regulating pathway - multiple species);ko04915(Estrogen signaling pathway);ko04612(Antigen processing and presentation)
+gene_876	NA
+gene_877	ko03010(Ribosome)
+gene_878	NA
+gene_879	ko03010(Ribosome)
+gene_880	ko04810(Regulation of actin cytoskeleton);ko04080(Neuroactive ligand-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_881	ko04975(Fat digestion and absorption);ko04977(Vitamin digestion and absorption)
+gene_882	ko03320(PPAR signaling pathway)
+gene_883	NA
+gene_884	NA
+gene_885	NA
+gene_886	ko03010(Ribosome)
+gene_887	ko03010(Ribosome)
+gene_888	NA
+gene_889	NA
+gene_890	ko04975(Fat digestion and absorption);ko03320(PPAR signaling pathway)
+gene_891	ko00190(Oxidative phosphorylation);ko04260(Cardiac muscle contraction)
+gene_892	ko00760(Nicotinate and nicotinamide metabolism)
+gene_893	NA
+gene_894	ko03050(Proteasome);ko03440(Homologous recombination)
+gene_895	NA
+gene_896	ko00564(Glycerophospholipid metabolism)
+gene_897	NA
+gene_898	NA
+gene_899	ko00190(Oxidative phosphorylation);ko04260(Cardiac muscle contraction)
+gene_900	NA
+gene_901	NA
+gene_902	NA
+gene_903	NA
+gene_904	ko00100(Steroid biosynthesis)
+gene_905	NA
+gene_906	NA
+gene_907	NA
+gene_908	NA
+gene_909	NA
+gene_910	ko03010(Ribosome)
+gene_911	ko00564(Glycerophospholipid metabolism)
+gene_912	ko03013(RNA transport)
+gene_913	ko04976(Bile secretion)
+gene_914	NA
+gene_915	NA
+gene_916	NA
+gene_917	ko00330(Arginine and proline metabolism);ko00340(Histidine metabolism);ko00310(Lysine degradation);ko00380(Tryptophan metabolism);ko00280(Valine, leucine and isoleucine degradation);ko00053(Ascorbate and aldarate metabolism);ko00010(Glycolysis / Gluconeogenesis);ko00620(Pyruvate metabolism);ko00071(Fatty acid degradation);ko00561(Glycerolipid metabolism);ko00410(beta-Alanine metabolism);ko00981(Insect hormone biosynthesis);ko00903(Limonene and pinene degradation);ko00625(Chloroalkane and chloroalkene degradation)
+gene_918	NA
+gene_919	ko03010(Ribosome)
+gene_920	NA
+gene_921	ko03010(Ribosome)
+gene_922	NA
+gene_923	NA
+gene_924	NA
+gene_925	NA
+gene_926	NA
+gene_927	ko00561(Glycerolipid metabolism);ko00100(Steroid biosynthesis);ko04975(Fat digestion and absorption);ko04972(Pancreatic secretion)
+gene_928	NA
+gene_929	ko00380(Tryptophan metabolism);ko00140(Steroid hormone biosynthesis);ko00830(Retinol metabolism);ko00980(Metabolism of xenobiotics by cytochrome P450);ko04913(Ovarian Steroidogenesis)
+gene_930	ko00190(Oxidative phosphorylation);ko04723(Retrograde endocannabinoid signaling)
+gene_931	NA
+gene_932	NA
+gene_933	NA
+gene_934	NA
+gene_935	ko00260(Glycine, serine and threonine metabolism);ko00630(Glyoxylate and dicarboxylate metabolism);ko00620(Pyruvate metabolism)
+gene_936	NA
+gene_937	ko00190(Oxidative phosphorylation)
+gene_938	ko04080(Neuroactive ligand-receptor interaction);ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption)
+gene_939	NA
+gene_940	NA
+gene_941	ko03010(Ribosome)
+gene_942	ko03010(Ribosome)
+gene_943	ko03010(Ribosome)
+gene_944	NA
+gene_945	NA
+gene_946	ko03010(Ribosome)
+gene_947	NA
+gene_948	ko04080(Neuroactive ligand-receptor interaction);ko04610(Complement and coagulation cascades)
+gene_949	NA
+gene_950	ko04145(Phagosome);ko04610(Complement and coagulation cascades)
+gene_951	NA
+gene_952	ko04145(Phagosome);ko04610(Complement and coagulation cascades)
+gene_953	NA
+gene_954	ko04145(Phagosome);ko04610(Complement and coagulation cascades)
+gene_955	ko04145(Phagosome);ko04610(Complement and coagulation cascades)
+gene_956	NA
+gene_957	ko04152(AMPK signaling pathway);ko04921(Oxytocin signaling pathway)
+gene_958	NA
+gene_959	ko00480(Glutathione metabolism);ko00982(Drug metabolism - cytochrome P450);ko00980(Metabolism of xenobiotics by cytochrome P450)
+gene_960	NA
+gene_961	NA
+gene_962	ko04145(Phagosome);ko04610(Complement and coagulation cascades)
+gene_963	NA
+gene_964	NA
+gene_965	ko04013(MAPK signaling pathway - fly)
+gene_966	NA
+gene_967	NA
+gene_968	NA
+gene_969	ko03010(Ribosome)
+gene_970	NA
+gene_971	NA
+gene_972	ko00380(Tryptophan metabolism)
+gene_973	ko03060(Protein export);ko04141(Protein processing in endoplasmic reticulum);ko04918(Thyroid hormone synthesis)
+gene_974	NA
+gene_975	NA
+gene_976	ko04216(Ferroptosis);ko00860(Porphyrin and chlorophyll metabolism)
+gene_977	NA
+gene_978	NA
+gene_979	ko04080(Neuroactive ligand-receptor interaction);ko04972(Pancreatic secretion);ko04974(Protein digestion and absorption)
+gene_980	NA
+gene_981	ko03010(Ribosome)
+gene_982	NA
+gene_983	NA
+gene_984	ko04013(MAPK signaling pathway - fly)
+gene_985	NA
+gene_986	ko04013(MAPK signaling pathway - fly)
+gene_987	NA
+gene_988	ko04013(MAPK signaling pathway - fly)
+gene_989	ko04013(MAPK signaling pathway - fly)
+gene_990	NA
+gene_991	ko04217(Necroptosis);ko04020(Calcium signaling pathway);ko04022(cGMP - PKG signaling pathway)
+gene_992	NA
+gene_993	ko00190(Oxidative phosphorylation);ko04723(Retrograde endocannabinoid signaling)
+gene_994	ko00190(Oxidative phosphorylation);ko04260(Cardiac muscle contraction)
+gene_995	ko04145(Phagosome);ko04610(Complement and coagulation cascades)
+gene_996	ko04013(MAPK signaling pathway - fly)
+gene_997	NA
+gene_998	ko03010(Ribosome)
+gene_999	ko04013(MAPK signaling pathway - fly)
+gene_1000	ko04013(MAPK signaling pathway - fly)
